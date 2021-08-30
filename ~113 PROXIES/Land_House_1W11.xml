@@ -1,0 +1,90 @@
+
+		<group name="Land_House_1W11SORTED1"><!--74 Livonia 157 chernarus-->
+				<usage name="SortedCivilian" />
+				<dispatch>
+
+                     <proxy type="BoxCerealCrunchin" pos="-3.421389 -1.161877 4.321532" rpy="0.0 50.0 0.0" /><!--TOP FRIDGE-->
+                     <proxy type="BoarSteakMeat" pos="-0.771972 -1.721146 2.470947" rpy="0.0 0.0 0.0" /><!--TOP OF WOOD STOVE-->
+					 <proxy type="FryingPan" pos="-0.471681 -1.785904 3.230713" rpy="0.0 0.0 0.0" /><!--TOP OF STOVE-->
+                     <proxy type="BakedBeansCan" pos="-2.836426 -1.659682 4.426025" rpy="0.0 0.0 0.0" /><!--LEFT OF SINK-->
+                     <proxy type="Banana" pos="-1.693849 -1.661682 4.418945" rpy="0.0 0.0 0.0" /><!--right OF SINK-->
+					 <proxy type="Bear_Pink" pos="-0.645510 -1.547682 4.441405" rpy="0.0 0.0 0.0" /><!--FAR RIGHT KITCHEN COUNTER-->
+					 
+					 <proxy type="DirtBikeHelmet_Black" pos="-0.548828 -1.660478 -0.543213" rpy="0.0 -90.0 0.0" /><!--CUBBY-->
+					 <proxy type="GiftBox_Medium_1" pos="-0.535156 -1.711578 -1.932129" rpy="0.0 0.0 0.0" /><!--LOWER SHELF-->
+					 <proxy type="Bandana_Yellow" pos="-0.492187 -1.711578 -1.333008" rpy="90.0 0.0 0.0" /><!--LOWER L-->
+					 <proxy type="AmmoBox_22_50Rnd" pos="-0.492187 -1.212414 -1.333008" rpy="90.0 0.0 0.0" /><!--UPPER L-->
+					 <proxy type="MKII" pos="-0.473633 -1.711578 -2.435059" rpy="90.0 0.0 0.0" /><!--LOWER R-->
+					 <proxy type="AmmoBox_22_50Rnd" pos="-0.473633 -1.212414 -2.435059" rpy="90.0 0.0 0.0" /><!--UPPER R-->
+					 
+					 <proxy type="BookTheDayOfTheBeast" pos="-4.455078 -2.172028 -1.482666" rpy="90.0 60.0 0.0" /><!--TABLE R-->
+					 <proxy type="WorkingBoots_Yellow" pos="-3.670899 -2.172028 -1.491210" rpy="0.0 60.0 0.0" /><!--TABLE L-->
+					 
+                     <proxy type="Ruger1022" pos="-0.323633 -0.815879 -1.868470" rpy="0.0 0.0 0.0" /><!--Top shelf wall-->
+				</dispatch>
+		</group>
+		<group name="Land_House_1W11SORTED2"><!--74 Livonia 157 chernarus-->
+				<usage name="SortedCivilian" />
+				<dispatch>
+
+                     <proxy type="BoxCerealCrunchin" pos="-3.421389 -1.151877 4.321532" rpy="0.0 45.0 0.0" /><!--TOP FRIDGE-->
+                     <proxy type="BoarSteakMeat" pos="-0.771972 -1.721146 2.470947" rpy="0.0 0.0 0.0" /><!--TOP OF WOOD STOVE-->
+					 <proxy type="Pot" pos="-0.471681 -1.785904 3.230713" rpy="0.0 0.0 0.0" /><!--TOP OF STOVE-->
+                     <proxy type="BakedBeansCan" pos="-2.836426 -1.659682 4.426025" rpy="0.0 0.0 0.0" /><!--LEFT OF SINK-->
+                     <proxy type="Kiwi" pos="-1.693849 -1.661682 4.418945" rpy="0.0 0.0 0.0" /><!--right OF SINK-->
+					 <proxy type="Bear_White" pos="-0.645510 -1.548682 4.441405" rpy="0.0 0.0 0.0" /><!--FAR RIGHT KITCHEN COUNTER-->
+					 
+					 <proxy type="DirtBikeHelmet_Black" pos="-0.548828 -1.660478 -0.543213" rpy="0.0 -90.0 0.0" /><!--CUBBY-->
+					 <proxy type="GiftBox_Medium_2" pos="-0.535156 -1.711578 -1.932129" rpy="0.0 0.0 0.0" /><!--LOWER SHELF-->
+					 <proxy type="Bandana_Pink" pos="-0.492187 -1.711578 -1.333008" rpy="90.0 0.0 0.0" /><!--LOWER L-->
+					 <proxy type="AmmoBox_762x39Tracer_20Rnd" pos="-0.492187 -1.222414 -1.333008" rpy="90.0 0.0 0.0" /><!--UPPER L-->
+					 <proxy type="MakarovIJ70" pos="-0.473633 -1.711578 -2.435059" rpy="90.0 0.0 0.0" /><!--LOWER R-->
+					 <proxy type="AmmoBox_380_35rnd" pos="-0.473633 -1.222414 -2.435059" rpy="90.0 0.0 0.0" /><!--UPPER R-->
+					 
+					 <proxy type="BookTheCosmicComputer" pos="-4.455078 -2.172028 -1.482666" rpy="90.0 60.0 0.0" /><!--TABLE R-->
+					 <proxy type="Sneakers_White" pos="-3.670899 -2.172028 -1.491210" rpy="0.0 60.0 0.0" /><!--TABLE L-->
+					 
+                     <proxy type="Izh18" pos="-0.402207 -0.815879 -1.868470" rpy="0.0 0.0 0.0" /><!---->
+				</dispatch>
+		</group>
+		<group name="Land_House_1W11SORTED3"><!--74 Livonia 157 chernarus-->
+				<usage name="SortedCivilian" />
+				<dispatch>
+
+                     <proxy type="BoxCerealCrunchin" pos="-3.421389 -1.152877 4.321532" rpy="0.0 60.0 0.0" /><!--TOP FRIDGE-->
+                     <proxy type="BoarSteakMeat" pos="-0.771972 -1.721146 2.470947" rpy="0.0 0.0 0.0" /><!--TOP OF WOOD STOVE-->
+					 <proxy type="Cauldron" pos="-0.471681 -1.785904 3.230713" rpy="0.0 0.0 0.0" /><!--TOP OF STOVE-->
+                     <proxy type="BakedBeansCan" pos="-2.836426 -1.659682 4.426025" rpy="0.0 0.0 0.0" /><!--LEFT OF SINK-->
+                     <proxy type="Honey" pos="-1.693849 -1.661682 4.418945" rpy="0.0 0.0 0.0" /><!--right OF SINK-->
+					 <proxy type="Bear_Dark" pos="-0.645510 -1.548682 4.441405" rpy="0.0 0.0 0.0" /><!--FAR RIGHT KITCHEN COUNTER-->
+					 
+					 <proxy type="SewingKit" pos="-0.548828 -1.691578 -0.543213" rpy="90.0 0.0 0.0" /><!--CUBBY-->
+					 <proxy type="GiftBox_Medium_3" pos="-0.535156 -1.711578 -1.932129" rpy="0.0 0.0 0.0" /><!--LOWER SHELF-->
+					 <proxy type="Bandana_Blue" pos="-0.492187 -1.711578 -1.333008" rpy="90.0 0.0 0.0" /><!--LOWER L-->
+					 <proxy type="AmmoBox_00buck_10rnd" pos="-0.492187 -1.212414 -1.333008" rpy="90.0 0.0 0.0" /><!--UPPER L-->
+					 <proxy type="CZ75" pos="-0.473633 -1.711578 -2.435059" rpy="90.0 0.0 0.0" /><!--LOWER R-->
+					 <proxy type="AmmoBox_9x19_25rnd" pos="-0.473633 -1.212414 -2.435059" rpy="90.0 0.0 0.0" /><!--UPPER R-->
+					 
+					 <proxy type="BookTheBarrier" pos="-4.455078 -2.172028 -1.482666" rpy="90.0 60.0 0.0" /><!--TABLE R-->
+					 <proxy type="GiftBox_Medium_2" pos="-3.670899 -2.172028 -1.491210" rpy="0.0 60.0 0.0" /><!--TABLE L-->
+					 
+                     <proxy type="Izh43Shotgun" pos="-0.373633 -0.815879 -1.868470" rpy="0.0 0.0 0.0" /><!---->
+				</dispatch>
+		</group>		
+		<group name="Land_House_2B01SORTED1"><!--2 story beige house/Inn 33 livonia 120 chernarus-->
+				<usage name="SortedCivilian" />
+				<dispatch>
+					<proxy type="Ruger1022" pos="4.994430 -2.276945 1.419320" rpy="0.0 180.0 0.0" /><!---->
+					<proxy type="CZ527_Green" pos="4.994430 -2.881876 1.459480" rpy="0.0 0.0 0.0" /><!---->
+					
+					<proxy type="Izh43Shotgun" pos="4.680700 0.433075 1.999865" rpy="0.0 0.0 0.0" /><!--off move back-->
+					<proxy type="TruckBattery" pos="4.440341 -0.865031 1.672427" rpy="0.0 0.0 0.0" /><!---->
+					
+					<proxy type="Bear_Dark" pos="3.260150 -3.096554 2.708703" rpy="0.0 -90.0 0.0" /><!--put in 22 and ak ammo-->
+					<proxy type="BakedBeansCan" pos="2.688119 -3.186523 2.792613" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="GiftBox_Medium_1" pos="3.058522 -3.186310 3.189346" rpy="0.0 50.0 0.0" /><!---->
+					
+					<proxy type="Colt1911" pos="-4.728638 -3.609070 1.171926" rpy="90.0 60.0 0.0" /><!--entry-->
+					<proxy type="BookTheCanterburyTales" pos="-4.737786 -3.608734 1.852615" rpy="90.0 -80.0 0.0" /><!--entry-->
+				</dispatch>
+		</group>

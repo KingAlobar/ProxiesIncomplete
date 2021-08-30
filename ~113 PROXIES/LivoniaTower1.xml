@@ -1,0 +1,158 @@
+		<group name="Land_Mil_ControlTowerNotDone" lootmax="30">
+			<usage name="Everywhere" />
+			<dispatch>
+				<proxy type="Bear_Beige" pos="" rpy="0.0 0.0 0.0" /><!---->
+				<proxy type="Bear_Pink" pos="" rpy="0.0 0.0 0.0" /><!---->
+				<proxy type="Bear_White" pos="" rpy="0.0 0.0 0.0" /><!---->
+				
+				
+				<proxy type="GiftBox_Small_1" pos="" rpy="0.0 0.0 0.0" /><!---->
+				
+			</dispatch>
+		</group>
+		
+		<group name="Land_Mil_ControlTowerGUNS" lootmax="30">
+			<usage name="Tower" />
+			<dispatch>
+				<proxy type="PumpkinHelmet" pos="-3.286210 7.121741 -0.736254" rpy="40.0 180.0 0.0" /><!--top floor outside-->
+				<proxy type="PumpkinHelmet" pos="-2.849210 7.121741 -0.736254" rpy="40.0 0.0 0.0" /><!--top floor inside-->
+				
+				<proxy type="PumpkinHelmet" pos="4.803650 4.535241 1.075980" rpy="90.0 0.0 0.0" /><!--pointing to front door-->
+								
+				<proxy type="FAL" pos="-1.958590 6.004601 -2.967110" rpy="0.0 -90.0 0.0" /><!--wall top floor-->
+				<proxy type="AKM_TESTBED" pos="-1.463656 6.251874 -2.967109" rpy="0.0 -90.0 0.0" /><!--wall lower left top floor-->
+				<proxy type="ASVAL" pos="-2.458637 6.601874 -2.967108" rpy="0.0 90.0 0.0" /><!--wall lower right top floor-->
+				<proxy type="Saiga" pos="-1.552137 6.821874 -2.967108" rpy="0.0 90.0 0.0" /><!--wall lower right top floor-->
+				
+				<proxy type="B95_Green" pos="1.871249 6.674661 1.452891" rpy="0.0 90.0 0.0" /><!--top floor top stairs-->
+				<proxy type="SVD" pos="1.871410 6.078400 1.452890" rpy="0.0 90.0 0.0" /><!--top floor top stairs-->
+				
+				<proxy type="Scout_Chernarus" pos="-0.069206 0.547200 -0.744591" rpy="0.0 180.0 0.0" /><!--wall 3rd floor-->
+				<proxy type="M4A1_Green" pos="-0.069203 0.311566 -0.750318" rpy="0.0 0.0 0.0" /><!--wall 3rd floor-->
+				
+				<proxy type="AK74_Black" pos="-2.021390 6.590999 1.452890" rpy="0.0 90.0 0.0" /><!--wall top opposite top floor upper-->
+				<proxy type="AK101_Black" pos="-2.016260 6.003558 1.452891" rpy="0.0 90.0 0.0" /><!--wall top opposite top floor lower-->
+			</dispatch>
+		</group>
+		<group name="Land_Mil_ControlTowerLOOT" lootmax="30">
+			<usage name="Everywhere" />
+			<dispatch>
+				<proxy type="Cleaver" pos="-0.127225 3.553900 -0.595777" rpy="0.0 10.0 -145.0" /><!--map 0.0 20.0 -165.0 good-->
+				<proxy type="FangeKnife" pos="-0.207225 3.203900 -0.595777" rpy="90.0 0.0 -90.0" /><!--map 90.0 0.0 -90.0 good -->
+				<proxy type="KukriKnife" pos="-0.217225 3.493900 -0.329961" rpy="90.0 -10.0 -90.0" /><!--map 0.0 0.0 90.0 &-275 point out -90 flat-->
+				
+				<proxy type="Candle" pos="0.098722 3.533923 -2.652744" rpy="0.0 0.0 0.0" /><!--radar console-->
+				<proxy type="Bear_Pink" pos="-0.203331 3.374341 -2.850300" rpy="0.0 20.0 0.0" /><!--3.394341 too high-->
+				<proxy type="PersonalRadio" pos="-0.490722 2.687923 -2.312744" rpy="0.0 160.0 0.0" /><!--radar console-->
+				<proxy type="Compass" pos="-0.691722 2.647923 -2.482744" rpy="0.0 90.0 0.0" /><!--radar console-->
+				<proxy type="BaseRadio" pos="-0.506714 2.688602 -2.881714" rpy="0.0 140.0 0.0" /><!--radar console-->
+				
+				<proxy type="SmershBag" pos="-2.675171 -7.081227 1.351684" rpy="90.0 -90.0 0.0" /><!--bottom r bunk r-->
+				<proxy type="AssaultBag_Ttsko" pos="-2.716187 -7.071227 0.198730" rpy="90.0 -70.0 0.0" /><!--bottom right bunk l-->
+				<proxy type="AssaultBag_Green" pos="-2.591675 -7.071227 -2.653320" rpy="90.0 110.0 0.0" /><!--bottom left bunk l-->
+				<proxy type="AssaultBag_Black" pos="-2.582641 -7.077227 -1.651123" rpy="90.0 130.0 0.0" /><!--bottom left bunk r-->
+				
+				<proxy type="DryBag_Black" pos="-2.850464 -6.291522 1.428954" rpy="90.0 -20.0 0.0" /><!--right top bunk r-->
+				<proxy type="DryBag_Green" pos="-2.850879 -6.290633 0.692504" rpy="90.0 -20.0 0.0" /><!--right top bunk mid-->
+				<proxy type="LeatherSack_Brown" pos="-2.834219 -6.250233 -0.024292" rpy="90.0 -20.0 0.0" /><!--right top bunk left-->
+				<proxy type="AliceBag_Camo" pos="-2.690874 -6.931488 -0.788941" rpy="0.0 180.0 0.0" /><!--box between bunks-->
+				<proxy type="CowboyHat_black" pos="-2.429810 -6.330633 -2.153564" rpy="90.0 22.0 0.0" /><!--left top bunk-->
+				<proxy type="CowboyHat_darkBrown" pos="-2.589810 -6.330633 -1.653564" rpy="90.0 -20.0 0.0" /><!--left top bunk-->
+				
+				<proxy type="Firewood" pos="0.221206 -7.417382 -2.232363" rpy="95.0 105.0 98.0" /><!--bucket right of fireplace was 0.171206 -->
+				<proxy type="Firewood" pos="0.131206 -7.387382 -2.179363" rpy="90.0 95.0 105.0" /><!--1st floor-->
+				<proxy type="WoodenStick" pos="0.151206 -7.407382 -2.172363" rpy="90.0 90.0 90.0" /><!---->
+				<proxy type="WoodenStick" pos="0.125206 -7.417382 -2.152363" rpy="90.0 110.0 90.0" /><!--1st floor-->
+				
+				<proxy type="BallisticHelmet_Green" pos="-0.614014 -5.953205 -3.161499" rpy="0.0 -90.0 0.0" /><!--top locker-->
+				<proxy type="BallisticHelmet_Black" pos="-1.456787 -5.953205 -3.150513" rpy="0.0 -90.0 0.0" /><!--top locker-->
+				<proxy type="MilitaryBoots_Black" pos="-1.473023 -7.502863 -3.168945" rpy="0.0 -85.0 0.0" /><!--bottom locker-->
+				<proxy type="MilitaryBoots_Bluerock" pos="-0.620727 -7.502863 -3.178589" rpy="0.0 -90.0 0.0" /><!--bottom locker-->
+				
+				<proxy type="Torch" pos="0.096499 -7.240976 -0.000056" rpy="0.0 135.0 0.0" /><!--left of fireplace-->
+				<proxy type="Torch" pos="-0.106499 -7.240976 -0.000056" rpy="0.0 135.0 0.0" /><!--left of fireplace-->
+				<proxy type="Torch" pos="-0.306499 -7.240976 -0.000056" rpy="0.0 135.0 0.0" /><!--left of fireplace-->
+				<proxy type="Matchbox" pos="-0.536499 -7.270976 -0.052856" rpy="0.0 135.0 0.0" /><!--left of fireplace-->
+				<!--3rd Floor red shelves and desk-->
+				<proxy type="GiftBox_Large_3" pos="-2.348022 -0.678806 0.562134" rpy="0.0 -15.0 0.0" /><!--on desk 3rd floor r-->
+				<proxy type="GiftBox_Large_1" pos="-2.936768 -0.678806 0.562011" rpy="0.0 40.0 0.0" /><!--on desk 3rd floor l-->
+				
+				<proxy type="PortableGasLamp" pos="-0.050413 0.256406 -2.720940" rpy="0.0 0.0 0.0" /><!--top shelf 0.282406 too high-->
+				<proxy type="GiftBox_Medium_2" pos="-0.000413 0.254806 -2.309680" rpy="0.0 0.0 0.0" /><!--2nd from top shelf left-->
+				<proxy type="GiftBox_Medium_1" pos="-0.262597 0.254806 -2.944458" rpy="0.0 0.0 0.0" /><!--2nd from top shelf right-->
+				
+				<proxy type="GiftBox_Medium_3" pos="-0.000413 -0.253435 -2.309680" rpy="0.0 0.0 0.0" /><!--3rd shelf-->
+				<proxy type="WaterproofBag_Yellow" pos="-0.040413 -0.259535 -2.720940" rpy="0.0 0.0 0.0" /><!--3rd shelf-->
+				<proxy type="FirstAidKit" pos="-0.090597 -0.180435 -2.984458" rpy="0.0 20.0 0.0" /><!--3rd shelf-->
+				
+				<proxy type="WaterproofBag_Green" pos="-0.040413 -0.778806 -2.309680" rpy="0.0 0.0 0.0" /><!--3rd floor-->
+				<proxy type="PlateCarrierVest" pos="-0.080413 -0.764806 -2.807500" rpy="0.0 -90.0 0.0" /><!--was just pouches 0.0.0-->
+				
+				<proxy type="WaterproofBag_Orange" pos="-0.080413 -1.218806 -2.420470" rpy="0.0 0.0 0.0" /><!--bottom left-->
+				<proxy type="SmallProtectorCase" pos="-0.040413 -1.175435 -2.915690" rpy="0.0 130.0 0.0" /><!--nottom right-->
+				
+				<proxy type="AmmoBox" pos="-2.635254 5.624602 1.085205" rpy="0.0 30.0 0.0" /><!--desk top left-->
+				<proxy type="Pot" pos="-2.057417 5.498602 0.986572" rpy="0.0 0.0 0.0" /><!--desk top right-->
+				<proxy type="WoodenCrate" pos="-2.204417 4.845346 0.996572" rpy="0.0 0.0 0.0" /><!--under desk-->
+				<proxy type="WoodenCrate" pos="-2.204417 5.008602 0.996572" rpy="0.0 0.0 0.0" /><!--under desk-->
+				
+				<proxy type="NVGHeadstrap" pos="-2.426257 5.533541 -2.449474" rpy="10.0 -20.0 0.0" /><!--on bag top floor-->
+				<proxy type="Bear_Dark" pos="-2.703857 5.637541 -2.462769" rpy="0.0 100.0 0.0" /><!--on bag top floor-->
+				
+				<proxy type="PlateCarrierVest" pos="-2.872210 6.451741 -2.281634" rpy="180.0 0.0 90.0" /><!--top floor above bag-->
+			</dispatch>
+		</group>
+		<group name="Land_Mil_ControlTowerBUILD" lootmax="30">
+			<usage name="Build" />
+			<dispatch>								
+				<proxy type="TrashCan" pos="2.322387 -7.533453 -2.670288" rpy="0.0 0.0 0.0" /><!--beneath stairs-->			
+			</dispatch>
+		</group>
+		<group name="Land_Mil_ControlTowerPLATES" lootmax="21">
+			<usage name="Plates" />	
+			<dispatch>
+				<proxy type="MetalPlate" pos="3.140989 -5.159205 0.916214" rpy="90.0 0.0 0.0" /><!--FRONT DOOR-->
+				<proxy type="MetalPlate" pos="3.140989 -6.059204 0.916214" rpy="90.0 0.0 0.0" /><!--FRONT DOOR-->				
+				<proxy type="MetalPlate" pos="0.340146 5.306549 -4.883866" rpy="90.0 90.0 0.0" /><!--balcony door-->
+				<proxy type="MetalPlate" pos="-0.650146 5.306549 -4.883866" rpy="90.0 90.0 0.0" /><!--balcony door-->		
+				<proxy type="MetalPlate" pos="4.835946 5.306549 -4.017468" rpy="90.0 0.0 0.0" /><!--balcony l-->				
+				<proxy type="MetalPlate" pos="0.198001 6.157749 1.676812" rpy="90.0 90.0 0.0" /><!---->
+				<proxy type="MetalPlate" pos="-0.691048 6.157749 1.612748" rpy="90.0 90.0 0.0" /><!---->
+				<proxy type="MetalPlate" pos="-3.054028 6.057749 -0.379738" rpy="90.0 0.0 0.0" /><!---->
+				<proxy type="MetalPlate" pos="-3.073990 6.057749 -1.272393" rpy="90.0 0.0 0.0" /><!---->				
+				<proxy type="MetalPlate" pos="2.145588 3.209042 2.139594" rpy="90.0 90.0 0.0" /><!--new windows-->
+				<proxy type="MetalPlate" pos="2.132814 1.676742 -3.589544" rpy="90.0 90.0 0.0" /><!--new windows-->
+				<proxy type="MetalPlate" pos="2.140738 -0.250959 2.120074" rpy="90.0 90.0 0.0" /><!--new windows-->
+				<proxy type="MetalPlate" pos="2.158224 -1.843399 -3.621438" rpy="90.0 90.0 0.0" /><!---->
+				<proxy type="MetalPlate" pos="2.128560 -3.244329 2.144463" rpy="90.0 90.0 0.0" /><!---->
+				<proxy type="MetalPlate" pos="2.166560 -4.542428 -3.644463" rpy="90.0 90.0 0.0" /><!---->
+			</dispatch>
+		</group>
+		<group name="Land_Shed_W3BUILD" lootmax="2">
+			<usage name="Build" />
+			<dispatch>
+				<proxy type="PickAxe" pos="1.555921 0.309010 -1.178184" rpy="0.0 90.0 0.0" /><!---->
+				<proxy type="SledgeHammer" pos="1.555905 0.319010 0.055926" rpy="0.0 90.0 0.0" /><!---->
+				<proxy type="FirefighterAxe_Black" pos="1.555870 0.339010 1.316489" rpy="0.0 90.0 0.0" /><!---->
+				
+				
+				<proxy type="Hammer" pos="-0.229961 0.508225 2.476367" rpy="0.0 90.0 0.0" /><!---->
+				<proxy type="Hatchet" pos="0.826313 0.525634 2.476367" rpy="0.0 90.0 0.0" /><!---->
+				<proxy type="Pliers" pos="0.140911 -0.081550 2.476367" rpy="0.0 90.0 0.0" /><!---->
+				
+				<proxy type="Hacksaw" pos="0.276206 0.650938 -2.193342" rpy="0.0 0.0 90.0" /><!--0.0 0.0 90.0 hilt down-->
+				<proxy type="BarbedWire" pos="-0.626206 0.610938 -2.193342" rpy="90.0 0.0 90.0" /><!---->
+				<proxy type="CombinationLock4" pos="0.276206 0.173192 -2.193342" rpy="90.0 0.0 90.0" /><!---->
+				<proxy type="MetalWire" pos="-0.626206 0.173192 -2.193342" rpy="90.0 0.0 90.0" /><!---->
+				<proxy type="Rope" pos="0.276206 -0.292360 -2.193342" rpy="0.0 90.0 0.0" /><!---->
+				
+				<proxy type="HescoBox" pos="-1.088180 -0.489867 -1.459390" rpy="0.0 90.0 0.0" /><!---->
+				
+				<proxy type="TrashCan" pos="1.029900 -0.847374 1.976370" rpy="0.0 0.0 0.0" /><!---->
+				
+				<proxy type="WoodenLog" pos="-1.088260 0.366997 0.650361" rpy="90.0 0.0 0.0" /><!---->
+				<proxy type="WoodenLog" pos="-1.088260 0.366997 1.150000" rpy="90.0 0.0 0.0" /><!---->
+				<proxy type="WoodenLog" pos="-1.088260 0.366997 1.650000" rpy="90.0 0.0 0.0" /><!---->
+				<proxy type="WoodenLog" pos="-1.088260 0.366997 2.150000" rpy="90.0 0.0 0.0" /><!---->
+			</dispatch>
+		</group>

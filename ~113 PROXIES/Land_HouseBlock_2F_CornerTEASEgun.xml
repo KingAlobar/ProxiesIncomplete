@@ -1,0 +1,12 @@
+<group name="Land_HouseBlock_2F_Corner" lootmax="4">
+	<usage name="Sorted" />
+	<container name="lootFloor" lootmax="4">
+		<point pos="8.145968 -6.680712 4.079676" range="0.5" height="1.5" /> 
+		<point pos="8.230688 -5.680714 3.613769" range="0.5" height="1.5" /> 
+		<point pos="8.187453 -6.180712 3.698331" range="0.5" height="1.5" /> all shelf
+		<point pos="8.132473 -5.680714 4.181111" range="0.5" height="1.5" /> 
+		<point pos="8.191280 -5.106674 4.000550" range="0.5" height="1.5" /> place by me
+		<point pos="8.114560 -5.120214 3.505920" range="0.5" height="1.5" /> shelf placed by me
+		<point pos="3.865910 -5.305184 8.575940" range="0.5" height="1.5" /> teaser gun behind cage
+	</container>
+</group>

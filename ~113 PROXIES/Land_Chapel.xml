@@ -1,0 +1,166 @@
+		<group name="Land_Chapel" lootmax="3">
+				<usage name="Trail" />
+				<dispatch>
+                        <proxy type="MilitaryBoots_Bluerock" pos="-0.306152 -3.194893 3.392333" rpy="0.0 0.0 0.0" /><!--left altar-->
+                        <proxy type="PlateCarrierVest" pos="-0.666152 -3.194893 3.392333" rpy="0.0 0.0 0.0" /><!--left altar-->
+                        <proxy type="BookTheCallOfCthulhu" pos="0.159444 -3.194672 3.392333" rpy="0.0 0.0 0.0" /><!--middle altar-->
+                        <proxy type="WaterproofBag_Orange" pos="0.909444 -3.194672 3.392333" rpy="0.0 0.0 0.0" /><!--right altar-->
+                        <proxy type="WaterproofBag_Green" pos="0.559444 -3.194672 3.392333" rpy="0.0 0.0 0.0" /><!--right altar-->
+                        <proxy type="AKS74U_Green" pos="-1.053773 -0.832921 3.339516" rpy="0.0 45.0 0.0" /><!--Left wall-->
+                        <proxy type="B95_Green" pos="1.050196 0.905928 3.341374" rpy="0.0 50.0 0.0" /><!--right wall-->
+                        <proxy type="Mosin9130_Green" pos="1.283969 -0.540802 1.066679" rpy="0.0 20.0 0.0" /><!--back wall-->
+                        <proxy type="M16A2" pos="-1.109969 -1.140802 1.141724" rpy="0.0 70.0 0.0" /><!--back wall-->
+				</dispatch>
+		</group>
+		
+		
+		
+		<group name="Land_Camp_House_red">
+				<usage name="Hunting" />
+				<container name="lootFloor">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<tag name="floor" />
+						<point pos="-2.086946 -1.666725 -2.208991" range="1.127441" height="1.989510" /><!--porch right-->
+						<point pos="-2.102608 -1.664345 2.092959" range="1.146240" height="2.001091" /><!--porch left-->
+				</container>
+				<container name="lootshelves">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="food" />
+						<category name="books" />
+						<tag name="shelves" />
+						<point pos="3.908622 -0.901581 -0.775137" range="0.182814" height="0.457035" /><!--right on table-->
+						<point pos="4.141198 -0.901375 -0.305669" range="0.340625" height="0.851563" /><!--left on table-->
+						<point pos="4.299685 -0.500031 1.450163" range="0.203125" height="0.507813" /><!--top lone cabinet-->
+						<point pos="4.241247 -1.516098 1.200810" range="0.190430" height="0.295845" /><!--bottom shelf-->
+						<point pos="-0.306126 -1.516556 -1.516792" range="0.186523" height="0.295845" /><!--bottom shelf-->
+						<point pos="-0.377930 -0.501366 -2.915383" range="0.237500" height="0.584808" /><!--left top cabinet-->
+						<point pos="-0.314878 -0.500732 -1.750849" range="0.203125" height="0.502319" /><!--right top cabinet-->
+						<point pos="1.596347 -0.501366 3.179883" range="0.505742" height="1.264355" /><!--window-->
+						<point pos="1.605152 -0.501366 -3.326864" range="0.340625" height="0.844971" /><!--window-->
+						<point pos="3.143144 -0.501366 -3.228074" range="0.443750" height="1.103699" /><!--wall over left bed-->
+						<point pos="-0.627029 -0.481366 1.546564" range="0.443750" height="1.103699" /><!--wall right of door-->
+				</container>
+		</group>
+		
+		<group name="Land_Camp_House_white">
+				<usage name="Hunting" />
+				<container name="lootFloor">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<tag name="floor" />
+						<point pos="-0.007056 -1.665977 1.792774" range="0.824463" height="2.000008" />
+						<point pos="1.301101 -1.665977 -2.469510" range="0.896729" height="2.000008" />
+						<point pos="3.576181 -1.665977 -1.269716" range="0.979981" height="2.000008" />
+						<point pos="-2.217687 -1.665977 2.346744" range="1.062500" height="2.000008" />
+						<point pos="2.099213 -1.665977 1.833938" range="1.199951" height="2.000008" />
+						<point pos="-2.252061 -1.665977 -2.178276" range="1.199951" height="2.000008" />
+				</container>
+				<container name="lootshelves">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="food" />
+						<category name="books" />
+						<tag name="shelves" />
+						<point pos="4.243792 -0.651871 2.237436" range="0.134375" height="0.167175" />
+						<point pos="4.200404 -0.353584 2.914778" range="0.158448" height="0.166000" />
+						<point pos="3.528803 -1.217003 1.052445" range="0.168750" height="0.421875" />
+						<point pos="-0.494591 -0.499008 2.777527" range="0.203125" height="0.507813" />
+						<point pos="2.907821 -1.341988 -2.971729" range="0.306250" height="0.765594" />
+						<point pos="4.073430 -0.927948 1.274349" range="0.306250" height="0.765625" />
+						<point pos="-0.136103 -1.341988 -2.727929" range="0.340625" height="0.851532" />
+				</container>
+				<container name="lootweapons" lootmax="2">
+						<category name="weapons" />
+						<category name="explosives" />
+						<point pos="4.241647 -1.217003 0.052444" range="0.134375" height="0.335938" />
+						<point pos="4.092197 -1.301582 2.762790" range="0.282471" height="0.141708" />
+						<point pos="3.929907 -0.927948 0.680293" range="0.302964" height="0.757408" />
+						<point pos="-0.226722 -1.341988 -2.015856" range="0.378512" height="0.946251" />
+						<point pos="3.583814 -1.341988 -2.711381" range="0.409375" height="1.023407" />
+				</container>
+		</group>
+		<group name="Land_Camp_House_brown">
+				<usage name="Hunting" />
+				<container name="lootFloor">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<tag name="floor" />
+						<point pos="1.611450 -1.666359 -2.732262" range="0.635010" height="1.585175" />
+						<point pos="3.879438 -1.665192 -0.231004" range="0.726563" height="1.812683" />
+						<point pos="0.162740 -1.666466 -1.956700" range="0.944092" height="1.999046" />
+						<point pos="2.231184 -1.664894 2.223466" range="1.007568" height="1.998207" />
+						<point pos="-2.052032 -1.665825 2.244829" range="1.096436" height="2.000648" />
+						<point pos="-2.103752 -1.667076 -2.394646" range="1.146240" height="2.000298" />
+				</container>
+				<container name="lootshelves">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="food" />
+						<category name="books" />
+						<tag name="shelves" />
+						<point pos="3.926902 -1.023117 0.975685" range="0.100000" height="0.250000" />
+						<point pos="4.318610 -0.652992 2.195926" range="0.134375" height="0.167168" />
+						<point pos="3.859732 -1.022972 1.585917" range="0.137696" height="0.344240" />
+						<point pos="2.647852 -0.900459 -2.923030" range="0.279106" height="0.694435" />
+						<point pos="3.248132 -0.900284 -2.777047" range="0.340625" height="0.847656" />
+						<point pos="0.806217 -1.363045 2.378911" range="0.375000" height="0.937500" />
+						<point pos="-0.173346 -1.363297 2.236698" range="0.443750" height="1.109375" />
+				</container>
+				<container name="lootweapons" lootmax="2">
+						<category name="weapons" />
+						<category name="explosives" />
+						<point pos="4.336912 -0.652832 2.784155" range="0.163574" height="0.167168" />
+						<point pos="4.175774 -1.302605 2.709080" range="0.203125" height="0.138664" />
+						<point pos="0.009574 -1.363464 1.447183" range="0.340625" height="0.851563" />
+						<point pos="0.930465 -1.363213 1.634892" range="0.376999" height="0.942162" />
+				</container>
+		</group>
+		
+		
+		
+			
+		<group name="Land_Village_PubHUNT">
+				<usage name="Pub" />				
+				<dispatch>
+					 <proxy type="B95" pos="-1.544574 -5.28799 7.505334" rpy="0.0 0.0 90.0" /><!--change last to 90 if wrong-->
+					 <proxy type="Mosin9130" pos="-1.544574 -4.78799 7.505334" rpy="0.0 0.0 -90.0" />
+					 <proxy type="Winchester70" pos="-1.01777 -5.18636 -0.116997" rpy="0.0 0.0 0.0" />
+					 <proxy type="Mp133Shotgun" pos="-1.01777 -1.68636 -0.116997" rpy="0.0 0.0 0.0" />
+					 <proxy type="Scout_Chernarus" pos="-1.01777 -4.08636 -0.116997" rpy="0.0 0.0 90.0" />
+					 <proxy type="SKS" pos="-1.531364 0.658531 7.51652" rpy="0.0 0.0 0.0" />
+				</dispatch>
+				<container name="lootshelves">
+						<point pos="4.154785 -2.792236 -3.049073" range="0.134375" height="0.335938" /><!--on bag entrance-->
+						<point pos="-3.666503 0.658531 4.711915" range="0.157471" height="0.393678" /><!--big bookshelf upstairs top r-->
+						<point pos="2.555176 -2.901520 0.466064" range="0.169922" height="0.219238" /><!--2nd shelf blue shed-->
+						<point pos="3.032227 -2.560799 0.438476" range="0.197510" height="0.493774" /><!--top blue shelf shed nails?-->
+						<point pos="-2.071779 0.179352 4.747557" range="0.222169" height="0.328682" /><!--cubby upstairs-->
+						<point pos="4.237793 -2.563057 -1.728760" range="0.237500" height="0.593750" /><!--top side blue near door-->
+						<point pos="-2.488769 -2.620552 -1.664796" range="0.306250" height="0.765625" /><!--bar right-->
+						<point pos="0.542482 -2.719101 4.625977" range="0.409375" height="1.023438" /><!--on table next to door-->
+						<point pos="0.487305 -2.719101 6.572021" range="0.409375" height="1.023438" /><!--on table next to window-->
+						<point pos="-1.768556 -2.719101 5.129639" range="0.546875" height="1.367188" /><!--on table front of fire-->
+						<point pos="-3.727052 -0.327240 1.787352" range="0.475098" height="1.187744" /><!--bed upstairs-->
+						<point pos="0.537109 -2.581047 -1.095459" range="0.478125" height="1.195313" /><!--shed table logs?-->
+						<point pos="-5.259724 -0.287952 3.537130" range="0.478125" height="1.195313" /><!--window upstairs bed-->
+						<point pos="-5.219724 -0.487952 1.957824" range="0.478125" height="1.195313" /><!--window upstairs bed-->
+				</container>
+				<container name="lootweapons" lootmax="10">
+						<point pos="0.891113 0.253868 7.180908" range="0.168750" height="0.421875" /><!--Top of TV-->
+						<point pos="-3.166018 0.179352 4.788573" range="0.203125" height="0.328003" /><!--big bookshelf bottom right-->
+						<point pos="4.266602 -2.902954 -0.614991" range="0.203125" height="0.216072" /><!--blue 2nd shelf near orner bag-->
+						<point pos="0.951662 -0.280045 6.415039" range="0.231934" height="0.579834" /><!--TV table-->
+						<point pos="-2.058105 -2.620552 0.334229" range="0.409375" height="1.023438" /><!--on bar left-->
+						<point pos="0.565918 -2.581047 0.268066" range="0.409375" height="1.023438" /><!--shed table logs?-->
+						<point pos="-4.499024 -0.327240 2.296386" range="0.443750" height="1.109375" /><!--bed upstairs-->
+						<point pos="0.565918 -2.581047 0.268066" range="0.409375" height="1.023438" /><!--shed table logs?-->
+				</container>
+		</group>

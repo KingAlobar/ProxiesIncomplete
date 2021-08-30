@@ -1,0 +1,88 @@
+		
+		<group name="Land_HouseBlock_3F2BUILD" lootmax="10">
+        <usage name="Sorted"/>
+				<!--Bar Portion-->
+				<dispatch>
+						<proxy type="Vodka" pos="0.157474 -7.074747 5.535098" rpy="0.0 0.0 0.0" /><!--barshelf bottom left-->
+						<proxy type="Ammo_12gaRubberSlug" pos="0.145928 -7.145747 4.640951" rpy="0.0 0.0 0.0" /><!--barshelf bottom right-->
+						<proxy type="Vodka" pos="0.138764 -6.644747 5.889978" rpy="0.0 0.0 0.0" /><!--barshelf middle right -->
+						<proxy type="SawedoffIzh43Shotgun" pos="0.127583 -6.744747 4.997982" rpy="90.0 0.0 0.0" /><!--barshelf middle -->
+						<proxy type="SodaCan_Kvass" pos="-1.439141 -7.178958 7.719237" rpy="0.0 0.0 0.0" /><!--bar top big spot left -->
+						<proxy type="SodaCan_Pipsi" pos="-1.668953 -7.178958 5.952682" rpy="0.0 0.0 0.0" /><!--bar top next to taps-->
+						<proxy type="SodaCan_Kvass" pos="-1.519260 -7.178958 5.262436" rpy="0.0 0.0 0.0" /><!--bar top right -->
+						<proxy type="TacticalBaconCan_Opened" pos="-3.363265 -7.301132 4.230095" rpy="0.0 0.0 0.0" /><!--first dinner table-->
+						<proxy type="SodaCan_Kvass" pos="-3.937730 -7.301132 3.937639" rpy="0.0 0.0 0.0" /><!--first dinner table-->
+						<proxy type="SodaCan_Kvass" pos="-3.576047 -7.301132 2.151028" rpy="0.0 0.0 0.0" /><!--2nd dinner table-->
+						<proxy type="Vodka" pos="-1.829820 -7.171132 1.971171" rpy="0.0 0.0 0.0" /><!--3rd dinner table-->
+						<proxy type="Rice" pos="-1.247159 -7.285132 2.215284" rpy="0.0 0.0 90.0" /><!--3rd dinner table -7.291132 too low-->
+						<proxy type="Firewood" pos="0.848754 -7.301132 1.542514" rpy="0.0 0.0 0.0" /><!--last dinner table-->
+						<proxy type="CowSteakMeat" pos="2.371397 -7.142704 1.520144" rpy="0.0 0.0 0.0" /><!--top of stove-->
+				</dispatch>
+				<!--Shop Portion-->
+				<dispatch>
+						<proxy type="GiftBox_Medium_2" pos="-3.296206 -7.704872 -7.063857" rpy="0.0 0.0 0.0" /><!--yellow shelf 2nd from bottom-->
+						<proxy type="GiftBox_Large_2" pos="-1.130226 -7.165977 -6.575547" rpy="0.0 0.0 0.0" /><!--sideways little blue shelf top-->
+						<proxy type="Hammer" pos="-1.124648 -7.139977 -7.007934" rpy="0.0 45.0 45.0" /><!--sideways blue middle -->
+						<proxy type="GiftBox_Medium_2" pos="-0.721764 -6.515629 -3.613601" rpy="0.0 0.0 0.0" /><!--blue shelf middle right-->
+						<proxy type="GiftBox_Small_2" pos="-1.112442 -7.169724 -3.595237" rpy="0.0 0.0 0.0" /><!--blue shelf 3rd from bottom left-->
+						<proxy type="NailBox" pos="-0.721764 -7.169724 -3.613601" rpy="0.0 0.0 0.0" /><!--blue shelf -->
+						<proxy type="GiftBox_Medium_2" pos="-1.112442 -6.515629 -3.595237" rpy="0.0 0.0 0.0" /><!--blue shelf -->
+						<proxy type="GiftBox_Large_2" pos="-2.111111 -6.550629 -3.620138" rpy="0.0 90.0 0.0" /><!--red wood shelf inch too high at -6.525629-->
+						<proxy type="NailBox" pos="-0.721764 -7.669724 -3.613601" rpy="0.0 0.0 0.0" /><!--blue shelf up?-->
+						<proxy type="GiftBox_Small_2" pos="-1.112442 -7.669724 -3.595237" rpy="0.0 0.0 0.0" /><!--blue shelf-->
+						<proxy type="CanisterGasoline" pos="-4.375565 -7.881053 -6.934991" rpy="0.0 0.0 0.0" /><!--in wooden box gas can -->
+						<proxy type="CanisterGasoline" pos="2.357282 -7.891820 -3.574140" rpy="0.0 0.0 0.0" /><!-- gas can inside wooden box-->
+						<proxy type="GiftBox_Medium_2" pos="4.287929 -7.184719 -6.542221" rpy="0.0 0.0 0.0" /><!--wooden table -->
+						<proxy type="GiftBox_Large_2" pos="4.298878 -7.184719 -5.337905" rpy="0.0 0.0 0.0" /><!--wooden table-->
+						<proxy type="BaseRadio" pos="2.085452 -7.522968 -7.065542" rpy="0.0 0.0 0.0" /><!--cardboard box-->
+				</dispatch>
+				<dispatch>
+						<proxy type="WoodenLog" pos="0.600000 -6.8800000 -7.1111111" rpy="0.0 0.0 0.0" /><!--BIG SHELF  -->
+						<proxy type="WoodenLog" pos="0.600000 -6.9000000 -7.0311111" rpy="0.0 0.0 0.0" /><!--BIG SHELF -->
+						<proxy type="WoodenLog" pos="0.600000 -6.8000000 -7.1111111" rpy="0.0 0.0 0.0" /><!--BIG SHELF  -->
+						<proxy type="WoodenLog" pos="0.600000 -6.7000000 -7.0311111" rpy="0.0 0.0 0.0" /><!--BIG SHELF -->
+						<proxy type="WoodenLog" pos="0.600000 -6.6000000 -7.1111111" rpy="0.0 0.0 0.0" /><!--BIG SHELF  -->
+						<proxy type="WoodenLog" pos="0.600000 -6.5000000 -7.0211111" rpy="0.0 0.0 0.0" /><!--BIG SHELF -->
+						<proxy type="WoodenLog" pos="0.600000 -6.4000000 -7.1111111" rpy="0.0 0.0 0.0" /><!-- BIG SHELF -->
+						<proxy type="WoodenLog" pos="0.600000 -6.3000000 -7.0211111" rpy="0.0 0.0 0.0" /><!--BIG SHELF  -->
+						<proxy type="WoodenLog" pos="0.600000 -6.4000000 -7.1111111" rpy="0.0 0.0 0.0" /><!--BIG SHELF  -->
+						<proxy type="WoodenLog" pos="0.600000 -6.3000000 -7.0211111" rpy="0.0 0.0 0.0" /><!--BIG SHELF -->
+						<proxy type="WoodenLog" pos="0.600000 -6.2000000 -7.1111111" rpy="0.0 0.0 0.0" /><!--BIG SHELF -->
+						<proxy type="WoodenLog" pos="0.600000 -6.1000000 -7.0211111" rpy="0.0 0.0 0.0" /><!--BIG SHELF 12-->
+						<proxy type="WoodenLog" pos="0.600000 -5.9800000 -7.1111111" rpy="0.0 0.0 0.0" /><!--BIG SHELF 12-->
+						
+						<proxy type="WoodenLog" pos="-0.007000 -6.8800000 -7.111111" rpy="0.0 0.0 0.0" /><!--BIG SHELF -->
+						<proxy type="WoodenLog" pos="-0.007000 -6.9000000 -7.011111" rpy="0.0 0.0 0.0" /><!--BIG SHELF -->
+						<proxy type="WoodenLog" pos="-0.007000 -6.8000000 -7.0511111" rpy="0.0 0.0 0.0" /><!--BIG SHELF  -->
+						<proxy type="WoodenLog" pos="-0.007000 -6.7000000 -7.111111" rpy="0.0 0.0 0.0" /><!--BIG SHELF -->
+						<proxy type="WoodenLog" pos="-0.007000 -6.6000000 -7.0211111" rpy="0.0 0.0 0.0" /><!-- BIG SHELF -->
+						<proxy type="WoodenLog" pos="-0.007000 -6.5000000 -7.111111" rpy="0.0 0.0 0.0" /><!--BIG SHELF  -->
+						<proxy type="WoodenLog" pos="-0.007000 -6.4000000 -7.0211111" rpy="0.0 0.0 0.0" /><!--BIG SHELF  -->
+						<proxy type="WoodenLog" pos="-0.007000 -6.3000000 -7.111111" rpy="0.0 0.0 0.0" /><!-- BIG SHELF -->
+						<proxy type="WoodenLog" pos="-0.007000 -6.4000000 -7.0211111" rpy="0.0 0.0 0.0" /><!-- BIG SHELF -->
+						<proxy type="WoodenLog" pos="-0.007000 -6.3000000 -7.111111" rpy="0.0 0.0 0.0" /><!-- BIG SHELF -->
+						<proxy type="WoodenLog" pos="-0.007000 -6.2000000 -7.0211111" rpy="0.0 0.0 0.0" /><!-- BIG SHELF -->
+						<proxy type="WoodenLog" pos="-0.007000 -6.1000000 -7.111111" rpy="0.0 0.0 0.0" /><!-- BIG SHELF -->
+						<proxy type="WoodenLog" pos="-0.007000 -6.0000000 -7.0211111" rpy="0.0 0.0 0.0" /><!-- BIG SHELF 13-->
+						
+						<proxy type="WoodenPlank" pos="-2.111111 -7.250000 -3.520000" rpy="0.0 90.0 0.0" /><!--red wood shelf 2nd from bottom -->
+						<proxy type="WoodenPlank" pos="-2.111111 -7.300000 -3.520000" rpy="0.0 90.0 0.0" /><!--red wood shelf 2nd from bottom -->
+						<proxy type="WoodenPlank" pos="-2.111111 -7.350000 -3.520000" rpy="0.0 90.0 0.0" /><!--red wood shelf -->
+						<proxy type="WoodenPlank" pos="-2.111111 -7.400000 -3.520000" rpy="0.0 90.0 0.0" /><!--red wood shelf -->
+						<proxy type="WoodenPlank" pos="-2.111111 -7.450000 -3.520000" rpy="0.0 90.0 0.0" /><!--red wood shelf -->
+						<proxy type="WoodenPlank" pos="-2.111111 -7.500000 -3.520000" rpy="0.0 90.0 0.0" /><!--red wood shelf -->
+						<proxy type="WoodenPlank" pos="-2.111111 -8.354000 -3.520000" rpy="0.0 90.0 0.0" /><!--red wood shelf -->
+						<proxy type="WoodenPlank" pos="-2.111111 -8.400000 -3.520000" rpy="0.0 90.0 0.0" /><!--red wood shelf -->
+						<proxy type="WoodenPlank" pos="-2.111111 -8.450000 -3.520000" rpy="0.0 90.0 0.0" /><!--red wood shelf -->
+						
+						<proxy type="WoodenPlank" pos="-2.111111 -7.250000 -3.780000" rpy="0.0 90.0 0.0" /><!--red wood shelf 2nd from bottom -->
+						<proxy type="WoodenPlank" pos="-2.111111 -7.300000 -3.780000" rpy="0.0 90.0 0.0" /><!--red wood shelf 2nd from bottom -->
+						<proxy type="WoodenPlank" pos="-2.111111 -7.350000 -3.780000" rpy="0.0 90.0 0.0" /><!--red wood shelf -->
+						<proxy type="WoodenPlank" pos="-2.111111 -7.400000 -3.780000" rpy="0.0 90.0 0.0" /><!--red wood shelf -->
+						<proxy type="WoodenPlank" pos="-2.111111 -7.450000 -3.780000" rpy="0.0 90.0 0.0" /><!--red wood shelf -->
+						<proxy type="WoodenPlank" pos="-2.111111 -7.500000 -3.780000" rpy="0.0 90.0 0.0" /><!--red wood shelf -->
+						<proxy type="WoodenPlank" pos="-2.111111 -8.354000 -3.780000" rpy="0.0 90.0 0.0" /><!--red wood shelf -->
+						<proxy type="WoodenPlank" pos="-2.111111 -8.400000 -3.780000" rpy="0.0 90.0 0.0" /><!--red wood shelf -->
+						<proxy type="WoodenPlank" pos="-2.111111 -8.450000 -3.780000" rpy="0.0 90.0 0.0" /><!--red wood shelf -->
+				</dispatch>
+		</group>

@@ -1,0 +1,26 @@
+		<group name="Land_House_1W05_YellowSORTED1">
+				<usage name="SortedCivilian" />
+				<container name="lootweapons" lootmax="15">
+						<point pos="1.343262 -0.595642 -0.565186" range="0.203125" height="0.219505" />
+						<point pos="-2.091798 -0.456367 1.749023" range="0.203125" height="0.507813" />
+						<point pos="-2.125488 -0.527946 -1.740234" range="0.216309" height="0.540771" />
+						<point pos="2.521973 -0.251892 -1.038086" range="0.271875" height="0.679688" />
+						<point pos="-1.247070 -0.542938 -3.072510" range="0.340625" height="0.851563" />
+						<point pos="1.361328 0.284393 -1.063965" range="0.134375" height="0.335938" />
+						<point pos="-1.294433 -0.542938 -2.356934" range="0.340625" height="0.851563" />
+						<point pos="-0.786621 -0.527946 -1.099365" range="0.211182" height="0.527954" />
+						<point pos="-2.128418 -0.527946 -2.931885" range="0.227539" height="0.568848" />
+						<point pos="3.657715 -0.058937 -1.435303" range="0.237500" height="0.593750" />
+						<point pos="1.946289 0.388336 -1.063721" range="0.237500" height="0.593750" />
+						<point pos="0.628418 -0.244255 -4.944824" range="0.271875" height="0.679688" />
+						<point pos="-2.073730 -0.699440 0.374267" range="0.306250" height="0.765625" />
+						<point pos="0.478516 -0.244255 -4.286621" range="0.340625" height="0.851563" />
+						<point pos="-1.294433 -0.542938 -2.356934" range="0.340625" height="0.851563" />
+				</container>
+				<dispatch>
+					<proxy type="Mosin9130_Camo" pos="3.180074 0.696805 -4.187629" rpy="0.0 0.0 0.0" /><!--fireplace-->
+					<proxy type="Scout" pos="3.133100 0.316453 -4.186200" rpy="0.0 90.0 0.0" /><!---->
+				</dispatch>
+		</group>
+		
+				

@@ -1,0 +1,712 @@
+
+		<group name="Land_BusStop_CityCHAOS" lootmax="150"><!--51 chernarus zero livonia-->
+				<usage name="Chaos" />
+				<dispatch>
+					<proxy type="FAL" pos="1.679382 0.692875 2.166603" rpy="0.0 0.0 0.0" /><!--far left-->
+					<proxy type="DryBag_Black" pos="1.679382 -0.058199 2.166603" rpy="0.0 0.0 0.0" /><!--far left-->
+					<proxy type="VSS" pos="1.679382 0.692875 0.641432" rpy="0.0 0.0 0.0" /><!--2nd from left-->
+					<proxy type="DryBag_Blue" pos="1.679382 -0.058199 0.641432" rpy="0.0 0.0 0.0" /><!--2nd from left-->
+					<proxy type="AK74" pos="1.679382 0.692875 -0.935368" rpy="0.0 0.0 0.0" /><!--2nd from right-->
+					<proxy type="DryBag_Yellow" pos="1.679382 -0.058199 -0.935368" rpy="0.0 0.0 0.0" /><!--2nd from right-->
+					<proxy type="ASVAL" pos="1.679382 0.692875 -2.471130" rpy="0.0 0.0 0.0" /><!--far right-->
+					<proxy type="DryBag_Blue" pos="1.679382 -0.058199 -2.471130" rpy="0.0 0.0 0.0" /><!--far right-->
+					<proxy type="AKM" pos="0.756089 0.692875 -3.019769" rpy="0.0 90.0 0.0" /><!--right inside-->
+					<proxy type="DryBag_Orange" pos="0.756089 -0.058199 -3.019769" rpy="0.0 90.0 0.0" /><!--right inside-->
+					<proxy type="M4A1" pos="0.778896 0.692875 3.069300" rpy="0.0 90.0 0.0" /><!--left inside-->
+					<proxy type="DryBag_Green" pos="0.778896 -0.058199 3.044300" rpy="0.0 -90.0 0.0" /><!--left inside-->
+					<proxy type="SVD" pos="-0.210764 0.575897 2.178202" rpy="0.0 0.0 0.0" /><!--front-->
+					<proxy type="DryBag_Red" pos="-0.210764 -0.058199 2.172222" rpy="0.0 0.0 0.0" /><!--front-->					
+				</dispatch>
+				<dispatch><!--reverse-->
+					<proxy type="FAL" pos="1.797371 0.692875 2.166603" rpy="0.0 0.0 0.0" /><!--outside-->
+					<proxy type="DryBag_Black" pos="1.797371 -0.058199 2.166603" rpy="0.0 180.0 0.0" /><!--outside-->
+					<proxy type="VSS" pos="1.794371 0.692875 0.641432" rpy="0.0 0.0 0.0" /><!--outside-->
+					<proxy type="DryBag_Blue" pos="1.794371 -0.058199 0.641432" rpy="0.0 180.0 0.0" /><!--outside-->
+					<proxy type="AK74" pos="1.794371 0.692875 -0.935368" rpy="0.0 0.0 0.0" /><!--outside-->
+					<proxy type="DryBag_Yellow" pos="1.794371 -0.058199 -0.935368" rpy="0.0 180.0 0.0" /><!--outside-->
+					<proxy type="ASVAL" pos="1.794371 0.692875 -2.471130" rpy="0.0 0.0 0.0" /><!--outside-->
+					<proxy type="DryBag_Blue" pos="1.794371 -0.058199 -2.471130" rpy="0.0 180.0 0.0" /><!--outside-->
+					<proxy type="AKM" pos="0.756089 0.692875 -3.139769" rpy="0.0 90.0 0.0" /><!-- outside-->
+					<proxy type="DryBag_Orange" pos="0.756089 -0.058199 -3.142769" rpy="0.0 -90.0 0.0" /><!--outside-->
+					<proxy type="M4A1" pos="0.778896 0.692875 3.189300" rpy="0.0 90.0 0.0" /><!-- outside-->
+					<proxy type="DryBag_Green" pos="0.778896 -0.058199 3.194300" rpy="0.0 90.0 0.0" /><!-- outside-->
+					<proxy type="SVD" pos="-0.095644 0.575897 2.178202" rpy="0.0 0.0 0.0" /><!--front outside-->
+					<proxy type="DryBag_Red" pos="-0.095644 -0.058199 2.172222" rpy="0.0 90.0 0.0" /><!--front outside-->				
+				</dispatch>
+		</group>
+		<group name="Land_Misc_FeedShackHunt" lootmax="22"><!--107 chernarus 75 livonia-->
+				<usage name="TheHunt" />
+				<dispatch>
+					<proxy type="PumpkinHelmet" pos="-0.007257 2.755743 -1.958403" rpy="65.0 90.0 0.0" /><!--ceiling light-->
+					
+					<proxy type="SKS_Black" pos="-1.470250 1.602910 -1.614450" rpy="0.0 180.0 0.0" /><!--Right-->
+					<proxy type="Mosin9130_Black" pos="-1.470250 1.209095 -1.629340" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="Scout_Livonia" pos="-1.470250 0.809095 -1.629340" rpy="0.0 180.0 0.0" /><!---->
+					
+					<proxy type="Winchester70_Black" pos="1.492160 1.457082 -0.816694" rpy="0.0 0.0 0.0" /><!--Left-->
+					<proxy type="M16A2" pos="1.492160 0.830490 -0.816694" rpy="0.0 180.0 0.0" /><!---->
+					<proxy type="AKS74U_Black" pos="1.482160 1.457082 -2.303302" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="B95_Black" pos="1.482160 0.830490 -2.303302" rpy="0.0 180.0 0.0" /><!---->
+					
+					<proxy type="FurImprovisedBag" pos="0.423963 1.496099 -3.401081" rpy="0.0 90.0 0.0" /><!--back wall RIGHT-->
+					<proxy type="HuntingBag" pos="-0.499283 0.727712 -3.401081" rpy="0.0 90.0 0.0" /><!--back wall LEFT-->
+									
+					<proxy type="MilitaryBoots_Redpunk" pos="1.085222 -0.266103 -3.044254" rpy="0.0 -80.0 0.0" /><!--back floor left-->
+					<proxy type="LeatherGloves_Black" pos="0.099283 -0.266103 -3.001081" rpy="0.0 90.0 0.0" /><!--back floor middle-->
+					<proxy type="AmmoBox" pos="-1.079151 -0.222103 -3.089586" rpy="0.0 0.0 0.0" /><!--back floor right-->
+				</dispatch>
+		</group>
+		<group name="Land_Misc_TrailRoof_BigHUNT" lootmax="20"><!--5 livonia 20 chernarus-->
+				<usage name="TheHunt" />
+				<dispatch>
+
+                     <proxy type="M16A2" pos="2.459144 -0.400750 0.177914" rpy="0.0 0.0 0.0" /><!--left wall-->
+                     <proxy type="Scout_Livonia" pos="2.459144 0.300750 0.177914" rpy="0.0 0.0 0.0" /><!--left wall-->
+					 <proxy type="LeatherSack_Black" pos="2.450144 -0.786750 1.128044" rpy="0.0 0.0 0.0" /><!--left wall-->
+                     <proxy type="SKS_Green" pos="0.853069 0.200750 -1.483243" rpy="0.0 90.0 0.0" /><!--right wall-->
+                     <proxy type="AKS74U_Black" pos="0.853069 -0.400750 -1.483243" rpy="0.0 90.0 0.0" /><!--right wall-->
+
+					 <proxy type="HuntingJacket_Summer" pos="1.540964 -0.884750 0.125336" rpy="0.0 -90.0 0.0" /><!--left table-->
+					 <proxy type="HuntingVest" pos="0.301894 -0.884750 0.013428" rpy="0.0 -90.0 0.0" /><!--right table-->
+					 <proxy type="CivilianBelt" pos="0.197510 -1.344200 0.82861" rpy="0.0 -90.0 0.0" /><!--seat-->
+					 <proxy type="MilitaryBoots_Redpunk" pos="1.380127 -1.344200 0.805420" rpy="0.0 50.0 0.0" /><!--seat-->
+					 
+                     <proxy type="PumpkinHelmet" pos="0.2 1.1 0.0" rpy="60.0 0.0 0.0" /><!--ceiling light-->
+				</dispatch>
+		</group>
+		<group name="Land_Shed_W6CHAOS"><!--202 chern 182 livonia-->
+				<usage name="Chaos" />
+				<dispatch>
+					<proxy type="FAL" pos="4.434598 0.780000 1.356973" rpy="0.0 180.0 0.0" /><!---->
+					<proxy type="DryBag_Black" pos="4.434598 0.030000 1.342478" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="VSS" pos="4.434598 0.780000 -0.816947" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="DryBag_Blue" pos="4.434598 0.030000 -0.823856" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="AK74" pos="2.735466 0.780000 2.784271" rpy="0.0 90.0 0.0" /><!---->
+					<proxy type="DryBag_Yellow" pos="2.738365 0.030000 2.784271" rpy="0.0 -90.0 0.0" /><!---->
+					<proxy type="ASVAL" pos="0.993546 0.780000 2.784271" rpy="0.0 90.0 0.0" /><!---->
+					<proxy type="DryBag_Blue" pos="0.999997 0.030000 2.784271" rpy="0.0 -90.0 0.0" /><!---->
+					<proxy type="AKM" pos="-1.029655 0.780000 2.784271" rpy="0.0 90.0 0.0" /><!---->
+					<proxy type="DryBag_Orange" pos="-1.017058 0.030000 2.784271" rpy="0.0 -90.0 0.0" /><!---->
+					<proxy type="M4A1" pos="-2.780218 0.780000 2.784271" rpy="0.0 90.0 0.0" /><!---->
+					<proxy type="DryBag_Green" pos="-2.803310 0.030000 2.784271" rpy="0.0 -90.0 0.0" /><!---->
+					<proxy type="SVD" pos="2.622656 0.780000 -2.694772" rpy="0.0 90.0 0.0" /><!---->
+					<proxy type="DryBag_Red" pos="2.683212 0.030000 -2.694772" rpy="0.0 90.0 0.0" /><!---->
+					<proxy type="M4A1" pos="1.260840 0.780000 -2.694771" rpy="0.0 90.0 0.0" /><!---->
+					<proxy type="DryBag_Green" pos="1.299212 0.030000 -2.694771" rpy="0.0 90.0 0.0" /><!---->
+					<proxy type="FAL" pos="-0.970712 0.780000 -2.694771" rpy="0.0 90.0 0.0" /><!---->
+					<proxy type="DryBag_Black" pos="-0.956394 0.030000 -2.694771" rpy="0.0 90.0 0.0" /><!---->
+					<proxy type="AKM" pos="-2.569824 0.780000 -2.694771" rpy="0.0 90.0 0.0" /><!---->
+					<proxy type="DryBag_Orange" pos="-2.564874 0.030000 -2.694771" rpy="0.0 90.0 0.0" /><!---->	
+				</dispatch>
+		</group>
+		<group name="Land_House_2B01ARMED"><!--2 story beige house/Inn 33 livonia 120 chernarus-->
+				<usage name="Village" />
+				<container name="lootweapons" lootmax="6">
+						<category name="tools" />
+						<category name="food" />
+						<category name="clothes" />
+						<point pos="3.260150 -3.186554 2.708703" range="0.134375" height="0.335938" />
+						<point pos="4.440341 -0.875031 1.672427" range="0.301758" height="0.601721" />
+						<point pos="-4.737786 -3.608734 1.852615" range="0.203125" height="0.507813" />
+						<point pos="2.688119 -3.186523 2.792613" range="0.234500" height="0.586250" />
+						<point pos="-4.728638 -3.609070 1.171926" range="0.237500" height="0.593750" />
+						<point pos="3.058522 -3.186310 3.189346" range="0.306250" height="0.765625" />
+				</container>
+				<dispatch>
+					<proxy type="Ruger1022" pos="4.994430 -2.276945 1.419320" rpy="0.0 180.0 0.0" /><!---->
+					<proxy type="Scout" pos="4.994430 -2.881876 1.459480" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="Izh43Shotgun" pos="4.713700 0.433075 2.053860" rpy="0.0 0.0 0.0" /><!---->
+				</dispatch>
+		</group>
+		<group name="Land_House_1W05_YellowARMED"><!--28 on livonia on 66 chernarus-->
+				<usage name="Village" />
+				<container name="lootweapons" lootmax="15">
+						<category name="food" />
+						<category name="tools" />
+						<category name="clothes" />
+						<point pos="1.343262 -0.595642 -0.565186" range="0.203125" height="0.219505" />
+						<point pos="-2.091798 -0.456367 1.749023" range="0.203125" height="0.507813" />
+						<point pos="-2.125488 -0.527946 -1.740234" range="0.216309" height="0.540771" />
+						<point pos="2.521973 -0.251892 -1.038086" range="0.271875" height="0.679688" />
+						<point pos="-1.247070 -0.542938 -3.072510" range="0.340625" height="0.851563" />
+						<point pos="1.361328 0.284393 -1.063965" range="0.134375" height="0.335938" />
+						<point pos="-1.294433 -0.542938 -2.356934" range="0.340625" height="0.851563" />
+						<point pos="-0.786621 -0.527946 -1.099365" range="0.211182" height="0.527954" />
+						<point pos="-2.128418 -0.527946 -2.931885" range="0.227539" height="0.568848" />
+						<point pos="3.657715 -0.058937 -1.435303" range="0.237500" height="0.593750" />
+						<point pos="1.946289 0.388336 -1.063721" range="0.237500" height="0.593750" />
+						<point pos="0.628418 -0.244255 -4.944824" range="0.271875" height="0.679688" />
+						<point pos="-2.073730 -0.699440 0.374267" range="0.306250" height="0.765625" />
+						<point pos="0.478516 -0.244255 -4.286621" range="0.340625" height="0.851563" />
+						<point pos="-1.294433 -0.542938 -2.356934" range="0.340625" height="0.851563" />
+				</container>
+				<dispatch>
+					<proxy type="Izh43Shotgun" pos="3.180074 0.696805 -4.187629" rpy="0.0 0.0 0.0" /><!--over fireplace-->
+					<proxy type="Izh18" pos="3.133100 0.316453 -4.186200" rpy="0.0 180.0 0.0" /><!--over fireplace-->
+				</dispatch>
+		</group>
+		<group name="Land_House_2W02ARMED"><!--24 on livonia 119 on chernarus-->
+				<usage name="Village" />
+				<usage name="Town" />
+				<container name="lootweapons" lootmax="6">
+						<category name="food" />
+						<category name="tools" />
+						<category name="clothes" />
+						<point pos="-1.261231 -0.467560 -5.145264" range="0.121582" height="0.303955" />
+						<point pos="-1.800782 -0.467560 -5.149658" range="0.123047" height="0.307618" />
+						<point pos="2.062012 -2.871033 -3.473389" range="0.135254" height="0.338135" />
+						<point pos="-2.116211 -0.467560 -1.559082" range="0.165039" height="0.412598" />
+						<point pos="-3.429688 -3.573509 -0.910400" range="0.177735" height="0.444337" />
+						<point pos="-2.736328 -2.649940 -6.527100" range="0.203125" height="0.507813" />
+						<point pos="-2.129395 -3.779160 -0.230225" range="0.203125" height="0.507813" />
+						<point pos="-2.038574 -0.612793 -4.395508" range="0.237500" height="0.593750" />
+						<point pos="-3.934571 -3.340477 -0.102295" range="0.237500" height="0.593750" />
+						<point pos="-1.662109 -3.284050 -6.534668" range="0.249512" height="0.623780" />
+						<point pos="-1.111816 -3.200089 -6.536133" range="0.251953" height="0.629883" />
+						<point pos="-0.454589 -0.596054 -8.668456" range="0.271875" height="0.679688" />
+						<point pos="-0.910645 -3.275330 -2.598389" range="0.306250" height="0.765625" />
+						<point pos="2.942870 -0.524818 -7.795166" range="0.306250" height="0.765625" />
+						<point pos="2.341796 -0.524818 -7.544677" range="0.306250" height="0.765625" />
+						<point pos="-1.281250 -0.612793 -4.497803" range="0.340625" height="0.851563" />
+						<point pos="-0.666504 -0.741570 -1.687744" range="0.222412" height="0.556030" />
+						<point pos="0.101074 -0.596054 -8.680421" range="0.271875" height="0.679688" />
+						<point pos="-2.018067 -4.019745 1.078612" range="0.279541" height="0.698852" />
+				</container>
+				<dispatch>
+					<proxy type="Repeater" pos="2.223481 -2.265368 -5.710376" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="CZ527_Green" pos="2.230710 -2.831734 -5.710376" rpy="0.0 0.0 0.0" /><!---->
+					<proxy type="TaloonBag_Green" pos="-2.311310 -2.881734 1.011576" rpy="0.0 180.0 0.0" /><!--entry closet hang-->
+					<proxy type="ChildBag_Green" pos="-0.187710 -3.271033 -1.469576" rpy="0.0 90.0 0.0" /><!--upstairs closet hang-->
+				</dispatch>
+		</group>
+		<group name="Land_HouseBlock_3F_Corner1BLACK" lootmax="200"><!--dont forget to copy changes to green 3fcorner1-->
+				<usage name="Sorted" />
+				<container name="lootFloor" lootmax="2"><!--12 Land_HouseBlock_3F_Corner1 on chernarus zero in Livonia-->
+						<category name="NPC" />
+						<point pos="-2.721501 -9.870136 7.905430" range="0.789795" height="1.974442" /><!--kitchen bathroom-->
+						<point pos="-3.035110 -2.444508 4.362595" range="0.794678" height="1.986679" /><!-- corner of apartment upstairs-->
+				</container>
+				<dispatch>
+						<proxy type="Ammo_12gaRubberSlug" pos="-7.028971 -8.973447 6.147990" rpy="0.0 0.0 0.0" /><!--kitchen counter left/left-->
+						<proxy type="SawedoffIzh43Shotgun" pos="-7.058913 -8.983813 6.751074" rpy="50.0 0.0 0.0" /><!--kitchen counter left/right-->
+						<proxy type="FryingPan" pos="-6.992862 -8.969257 7.481156" rpy="0.0 0.0 0.0" /><!--stovetop-->
+						<proxy type="PortableGasLamp" pos="-7.037397 -8.905869 8.788832" rpy="0.0 0.0 0.0" /><!--top shelf/right kitchen blue shelf-->
+						<proxy type="Rice" pos="-7.012799 -9.125967 8.377701" rpy="0.0 0.0 0.0" /><!--2nd shelf/left kitchen blue shelf-->
+						<proxy type="SardinesCan_Opened" pos="-7.037397 -9.194967 8.788832" rpy="0.0 0.0 0.0" /><!--2nd shelf/right kitchen blue shelf-->
+						<proxy type="PortableGasStove" pos="-7.012799 -8.905869 8.377701" rpy="0.0 0.0 0.0" /><!--top shelf/left kitchen blue shelf-->
+						<proxy type="FangeKnife" pos="-7.037397 -9.547967 8.788832" rpy="50.0 0.0 0.0" /><!--bottom? shelf/right kitchen blue shelf-->
+						<proxy type="SodaCan_Kvass" pos="-7.012799 -9.435967 8.377701" rpy="0.0 0.0 0.0" /><!--bottom? shelf/left kitchen blue shelf-->
+						<proxy type="TacticalBaconCan_Opened" pos="-4.472119 -8.851302 8.977868" rpy="0.0 0.0 0.0" /><!--counter kitchen left of sink-->
+						<proxy type="SodaCan_Kvass" pos="-4.485227 -8.861302 7.810919" rpy="0.0 0.0 0.0" /><!--counter kitchen right of sink-->
+						<proxy type="HuntingJacket_Autumn" pos="-1.539038 -9.785141 -9.734552" rpy="0.0 90.0 0.0" /><!--bottom shelf 1st fl-->
+						<proxy type="HuntingJacket_Spring" pos="-1.539038 -9.285141 -9.734552" rpy="0.0 90.0 0.0" /><!--2nd bottom shelf 1st fl-->
+						<proxy type="HuntingJacket_Summer" pos="-1.164268 -9.285141 -9.843278" rpy="0.0 90.0 0.0" /><!--2nd from bottom shelf 1st fl-->
+						<proxy type="HuntingJacket_Winter" pos="-1.164268 -8.785141 -9.843278" rpy="0.0 90.0 0.0" /><!--3rd? from bottom shelf 1st fl-->
+						<proxy type="MilitaryBoots_Bluerock" pos="-1.164268 -9.785141 -9.843278" rpy="0.0 10.0 0.0" /><!--3rd? from bottom shelf 1st fl-->
+						<proxy type="BoxCerealCrunchin" pos="-5.405457 -8.882724 3.123021" rpy="0.0 0.0 0.0" /><!--kitchen table-->
+						<proxy type="BaseRadio" pos="-6.609313 -1.757557 -3.980448" rpy="0.0 0.0 0.0" /><!--up apart bedroom corner table next to tv -->
+				</dispatch>
+				<dispatch>
+					<proxy type="AK101_Black" pos="0.821392 -6.570531 5.851107" rpy="0.0 0.0 0.0" /><!--upstairs landing guns? upped height-->
+					<proxy type="AK74_Black" pos="0.821392 -6.270531 5.851107" rpy="0.0 0.0 0.0" /><!--upstairs landing guns? upped height-->
+					<proxy type="Winchester70_Black" pos="0.821392 -5.970531 5.851107" rpy="0.0 0.0 0.0" /><!--upstairs landing guns? upped height-->
+					<proxy type="Mosin9130_Black" pos="0.821392 -5.670531 5.851107" rpy="0.0 0.0 0.0" /><!--upstairs landing guns? upped height-->
+					<proxy type="B95_Black" pos="0.821392 -5.370531 5.851107" rpy="0.0 0.0 0.0" /><!--upstairs landing guns? upped height-->
+					<proxy type="SKS_Black" pos="0.821392 -5.070531 5.851107" rpy="0.0 0.0 0.0" /><!--upstairs landing guns? upped height-->
+					<proxy type="AliceBag_Black" pos="0.821392 0.407102 5.851107" rpy="0.0 180.0 0.0" /><!--5th landing -->
+					<proxy type="AssaultBag_Black" pos="0.861392 1.000101 5.851107" rpy="0.0 180.0 0.0" /><!--5th landing -->
+					<proxy type="DryBag_Black" pos="0.821392 1.000101 5.401107" rpy="0.0 180.0 0.0" /><!--5th landing-->
+					<proxy type="DryBag_Black" pos="0.861392 0.506102 5.401107" rpy="0.0 180.0 0.0" /><!--5th landing -->
+					<proxy type="AK74_Black" pos="-6.457673 -1.403529 -2.878564" rpy="0.0 90.0 0.0" /><!-- upstairs apt big bookshelf-->
+					<proxy type="M16A2" pos="-6.457673 -0.894529 -2.878564" rpy="0.0 90.0 0.0" /><!-- upstairs apt big bookshelf-->
+					<proxy type="M16A2" pos="-6.457673 -0.444529 -2.878564" rpy="0.0 90.0 0.0" /><!-- upstairs apt big bookshelf-->
+					<proxy type="FirstAidKit" pos="-4.742390 -1.381529 -2.878564" rpy="0.0 0.0 0.0" /><!-- upstairs apt big bookshelf nook far left-->
+					<proxy type="Ammobox" pos="-4.842390 -1.381529 -2.878564" rpy="0.0 0.0 0.0" /><!-- upstairs apt big bookshelf nook left-->
+					<proxy type="Ammobox" pos="-4.942390 -1.381529 -2.878564" rpy="0.0 0.0 0.0" /><!-- upstairs apt big bookshelf nook left-->
+					<proxy type="Ammobox" pos="-5.062390 -1.381529 -2.878564" rpy="0.0 0.0 0.0" /><!-- upstairs apt big bookshelf nook orig-->
+					<proxy type="Ammobox" pos="-5.182390 -1.381529 -2.878564" rpy="0.0 0.0 0.0" /><!-- upstairs apt big bookshelf nook right-->
+					<proxy type="Headtorch_Grey" pos="-5.357390 -1.381529 -2.878564" rpy="90.0 90.0 0.0" /><!-- upstairs apt big bookshelf nook far right-->
+					
+					<proxy type="RefrigeratorMinsk" pos="-4.632428 -8.474792 7.160031" rpy="0.0 0.0 0.0" /><!--top of fridge-->
+					
+					<proxy type="MetalPlate" pos="-7.456994 -0.194743 -9.19059" rpy="90.0 0.0 0.0" /><!--upstairs apart window plates left to right-->
+					<proxy type="MetalPlate" pos="-7.456994 -0.594743 -9.19059" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.794743 -9.19059" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.194743 -6.27059" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.594743 -6.27059" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -1.794743 -6.27059" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.194743 -4.40524" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.894743 -4.40524" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.194743 -2.16455" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.894743 -2.16455" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.194743 -0.14779" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.894743 -0.14779" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.194743 2.06039" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.894743 2.06039" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.194743 4.14144" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.894743 4.14144" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="6.607574 -0.434529 1.31719" rpy="90.0 0.0 90.0" /><!--hall upstairs-->
+					<proxy type="MetalPlate" pos="-5.414374 -8.374792 9.73354" rpy="90.0 0.0 90.0" /><!--downstairs kitchen window  -->
+					<proxy type="MetalPlate" pos="-5.414374 -8.374792 9.73354" rpy="90.0 0.0 90.0" /><!--downstairs kitchen window  -->
+					<proxy type="MetalPlate" pos="0.779155 -8.374792 -8.78063" rpy="90.0 0.0 0.0" /><!--end hall near back door-->
+					<proxy type="MetalPlate" pos="0.806214 -8.374792 -0.700929" rpy="90.0 0.0 0.0" /><!--hall window near kitchen door-->
+					<proxy type="MetalPlate" pos="6.601423 -8.374792 1.274144" rpy="90.0 90.0 0.0" /><!--entrance-->
+					
+					<proxy type="Mosin9130_Black" pos="6.758423 -0.690900 6.878872" rpy="0.0 90.0 0.0" /><!--4th shelves 2nd top left shelf-->
+					<proxy type="AmmoBox_762x54Tracer_20Rnd" pos="6.758423 -0.687900 6.878872" rpy="90.0 0.0 0.0" /><!--4th shelves 2nd top left shelf-->
+					<proxy type="AmmoBox_762x54Tracer_20Rnd" pos="6.750423 -0.687900 6.878872" rpy="90.0 0.0 0.0" /><!--4th shelves 2nd top left shelf-->
+					<proxy type="WoodenCrate" pos="6.748423 -1.080900 6.856872" rpy="0.0 180.0 0.0" /><!--4th shelves 2nd bottom left shelf-->
+					<proxy type="Winchester70_Black" pos="7.888862 -0.690900 5.571166" rpy="0.0 0.0 0.0" /><!--4th shelves  top right shelf-->
+					<proxy type="AmmoBox_308WinTracer_20Rnd" pos="7.888862 -0.688000 5.571166" rpy="90.0 90.0 0.0" /><!--4th right shelf-->
+					<proxy type="AmmoBox_308WinTracer_20Rnd" pos="7.888862 -0.688000 5.569066" rpy="90.0 90.0 0.0" /><!--4th right shelf-->
+					<proxy type="BallisticHelmet_Black" pos="7.943862 -1.150311 5.571166" rpy="0.0 180.0 0.0" /><!--4th shelves 2nd top right shelf-->
+					<proxy type="Mich2001Helmet" pos="7.864363 -1.150311 5.892962" rpy="0.0 180.0 0.0" /><!--4th shelves 2nd top right shelf-->
+					<proxy type="NVGHeadstrap" pos="7.864363 -1.490899 5.892962" rpy="0.0 180.0 0.0" /><!--4th shelves 2nd bottom right shelf-->
+					<proxy type="AviatorGlasses" pos="7.943862 -1.490899 5.571166" rpy="0.0 180.0 0.0" /><!--4th shelves 2nd bottom right shelf-->
+					<proxy type="WaterproofBag_Orange" pos="6.618423 -1.490899 6.878872" rpy="0.0 0.0 0.0" /><!--4th shelves 2nd middle left shelf-->
+					<proxy type="WaterproofBag_Orange" pos="7.017888 -1.490899 6.851415" rpy="0.0 0.0 0.0" /><!--4th shelves 2nd middle left shelf-->
+					<proxy type="SmershBag" pos="6.578423 -1.856000 6.878872" rpy="90.0 0.0 0.0" /><!--4th shelves 2nd bottom left shelf-->
+					<proxy type="WeaponCleaningKit" pos="7.017888 -1.826000 6.851415" rpy="90.0 0.0 0.0" /><!--4th  shelves 2nd bottom left shelf-->
+					<proxy type="WaterproofBag_Orange" pos="7.864363 -1.910309 5.892962" rpy="0.0 70.0 0.0" /><!--4th  shelves 2nd bottom right shelf-->
+					<proxy type="WaterproofBag_Orange" pos="7.943862 -1.910309 5.571166" rpy="0.0 70.0 0.0" /><!--4th  shelves 2nd bottom right shelf-->
+					<proxy type="MilitaryBoots_Black" pos="6.618423 -2.280000 6.878872" rpy="0.0 70.0 0.0" /><!--4th shelves 2nd bottom left shelf-->
+					<proxy type="MilitaryBoots_Redpunk" pos="7.017888 -2.280000 6.851415" rpy="0.0 70.0 0.0" /><!--4th  shelves 2nd bottom left shelf-->
+					<proxy type="MilitaryBoots_Bluerock" pos="7.864363 -2.270009 5.892962" rpy="0.0 140.0 0.0" /><!--4th  shelves 2nd bottom right shelf-->
+					<proxy type="Sneakers_Black" pos="7.943862 -2.270009 5.571166" rpy="0.0 180.0 0.0" /><!--4th  shelves 2nd bottom right shelf-->
+					
+					<proxy type="BookTheArtOfWar" pos="-5.372644 -1.928210 3.140886" rpy="90.0 60.0 0.0" /><!--9.9.0 upstairs apt coffee table left-->
+					<proxy type="BookWarAndPeace" pos="-5.316649 -1.920545 3.928113" rpy="90.0 120.0 0.0" /><!--upstairs apt coffee table right-->
+					<proxy type="PortableGasLamp" pos="-5.918182 -1.848767 -9.724967" rpy="0.0 0.0 0.0" /><!--upstairs apt bedroom bedside table -->
+					<proxy type="PumpkinHelmet" pos="-5.536915 -0.643443 -3.922682" rpy="0.0 90.0 0.0" /><!--upstairs apt bedroom tv top-->
+					<proxy type="Saiga" pos="-2.369895 -1.000009 0.706010" rpy="0.0 0.0 0.0" /><!--metal shelf left shelf-->
+					<proxy type="Mag_Saiga_Drum20Rnd" pos="-2.362397 -1.000001 0.967158" rpy="0.0 0.0 0.0" /><!--metal shelf up apart 2ndbottom leftshelf-->
+					<proxy type="Mag_Saiga_Drum20Rnd" pos="-2.360147 -1.000001 1.067158" rpy="0.0 0.0 0.0" /><!--metal shelf up apart 2ndbottom leftshelf-->
+					<proxy type="Saiga" pos="-2.369895 -0.642688 0.706010" rpy="0.0 0.0 0.0" /><!--metal shelf up apart 2ndtop leftshelf-->
+					<proxy type="Mag_Saiga_Drum20Rnd" pos="-2.362397 -0.650001 0.967158" rpy="0.0 0.0 0.0" /><!--metal shelf up apart 2ndbottom leftshelf-->
+					<proxy type="Mag_Saiga_Drum20Rnd" pos="-2.360147 -0.650001 1.067158" rpy="0.0 0.0 0.0" /><!--metal shelf up apart 2ndbottom leftshelf-->
+					<proxy type="WoodenCrate" pos="-2.379526 -1.516688 0.856010" rpy="0.0 90.0 0.0" /><!--metal shelf up apart 2ndtop leftshelf-->
+					<proxy type="WoodenCrate" pos="-2.354334 -1.516688 -0.054196" rpy="0.0 90.0 0.0" /><!--metal shelf up apart middle rightshelf-->
+					<proxy type="SodaCan_Kvass" pos="-2.354334 -0.536688 1.189196" rpy="0.0 0.0 0.0" /><!--metal shelf up apart middle rightshelf-->
+					<proxy type="SodaCan_Kvass" pos="-2.354334 -0.632488 1.054196" rpy="0.0 0.0 0.0" /><!--metal shelf up apart middle rightshelf-->
+
+					<proxy type="AK101_Black" pos="4.388669 -0.573030 1.675001" rpy="0.0 90.0 0.0" /><!-- upstairs hallway above YELLOW SHELF -->
+					<proxy type="AK74_Black" pos="3.065408 -0.601689 1.670001" rpy="0.0 90.0 0.0" /><!--upstairs hallway above metal shelf right of yellow -->
+					<proxy type="B95_Black" pos="3.102232 -0.306688 1.660001" rpy="0.0 90.0 0.0" /><!--upstairs hallway above metal shelf right of yellow-->
+					
+					<proxy type="PumpkinHelmet" pos="7.872386 -9.077414 1.946012" rpy="0.0 -90.0 0.0" /><!--on cardboard box entry-->
+					<proxy type="WaterproofBag_Orange" pos="3.012220 -9.525692 6.949729" rpy="0.0 0.0 0.0" /><!--shelf next to dryer/washer right bottom-->
+					<proxy type="WaterproofBag_Orange" pos="2.625706 -9.525692 6.949729" rpy="0.0 0.0 0.0" /><!--shelf next to dryer/washer left bottom-->
+					<proxy type="WaterproofBag_Orange" pos="3.012220 -9.145691 6.949729" rpy="0.0 0.0 0.0" /><!--shelf next to dryer/washer -->
+					<proxy type="WaterproofBag_Orange" pos="0.991185 -9.145691 5.833260" rpy="0.0 0.0 0.0" /><!--shelf next to dryer/washer left-->
+					<proxy type="WaterproofBag_Orange" pos="0.991185 -9.525692 5.833260" rpy="0.0 0.0 0.0" /><!--shelf next to dryer/washer left upper-->
+					<proxy type="WaterproofBag_Orange" pos="2.625706 -9.145691 6.923977" rpy="0.0 0.0 0.0" /><!--shelf next to dryer/washer -->
+					<proxy type="HighCapacityVest_Black" pos="1.864266 -8.723251 6.819051" rpy="0.0 90.0 0.0" /><!--top of dryer/washer right-->
+				</dispatch>
+		</group>
+		<group name="Land_HouseBlock_3F_Corner2BLACK" lootmax="200">
+				<usage name="Sorted" />
+				<dispatch>						
+					<proxy type="BoxCerealCrunchin" pos="-5.040524 -8.941816 3.647122" rpy="0.0 0.0 0.0" /><!--downstairs kitchen table-->
+					<proxy type="PortableGasStove" pos="-7.120696 -9.020981 5.731319" rpy="0.0 0.0 0.0" /><!--kitchen counter left-->
+					<proxy type="FryingPan" pos="-7.068655 -9.000023 6.657862" rpy="0.0 0.0 0.0" /><!--stove top-->
+					<proxy type="BookHunger" pos="-7.090388 -9.020981 7.395907" rpy="90.0 185.0 0.0" /><!--kitchen counter right of stove-->
+				</dispatch>
+				<dispatch>
+					<proxy type="MetalPlate" pos="6.602264 -0.443102 1.250914" rpy="90.0 90.0 0.0" /><!--apt floor hallway -->
+					<proxy type="MetalPlate" pos="6.602264 -1.005698 1.250914" rpy="90.0 90.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.543210 -1.006549 -2.147491" rpy="90.0 0.0 0.0" /><!--APT LIVING ROOM 1ST WINDOW PLATE-->
+					<proxy type="MetalPlate" pos="-7.543210 -0.406549 -2.147491" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.543210 -1.666549 -0.047801" rpy="90.0 0.0 0.0" /><!--APT LIVING ROOM 2ND WINDOW PLATE-->
+					<proxy type="MetalPlate" pos="-7.543210 -0.436549 -0.047801" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.543210 -1.003259 1.982745" rpy="90.0 0.0 0.0" /><!-- APT LIVING ROOM 3RD WINDOW PLATE---->
+					<proxy type="MetalPlate" pos="-7.543210 -0.453259 1.982745" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.543210 -1.053259 4.173324" rpy="90.0 0.0 0.0" /><!-- APT LIVING ROOM 4TH WINDOW PLATE---->
+					<proxy type="MetalPlate" pos="-7.543210 -0.453259 4.173324" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.543210 -1.044512 -9.180834" rpy="90.0 0.0 0.0" /><!--WINDOW APT BEDROOM LEFT PLATE-->
+					<proxy type="MetalPlate" pos="-7.543210 -0.444512 -9.180834" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.543210 -1.454512 -4.304990" rpy="90.0 0.0 0.0" /><!--WINDOW APT BEDROOM RIGHT PLATE-->
+					<proxy type="MetalPlate" pos="-7.543210 -0.434512 -4.304990" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.543210 -0.964512 -6.390134" rpy="90.0 0.0 0.0" /><!--WINDOW APT MIDDLE BEDROOM PLATE-->
+					<proxy type="MetalPlate" pos="-7.543210 -0.404512 -6.390134" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="0.906572 -8.005698 -8.713742" rpy="90.0 0.0 0.0" /><!--bottom floor end of hallway window PLATE-->
+					<proxy type="MetalPlate" pos="0.753233 -8.005698 -0.647389" rpy="90.0 0.0 0.0" /><!--bottom floor 2nd end hallway window PLATE-->
+					<proxy type="MetalPlate" pos="6.583053 -8.005698 1.249593" rpy="90.0 90.0 0.0" /><!--bottom floor entry by stairs window PLATE-->
+					<proxy type="MetalPlate" pos="-7.741872 -8.105698 3.264552" rpy="90.0 0.0 0.0" /><!--kitchen entry window-->
+					<proxy type="MetalPlate" pos="-7.741872 -7.505698 3.264552" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.728614 -8.105698 7.502034" rpy="90.0 0.0 0.0" /><!--kitchen end by side window-->
+					<proxy type="MetalPlate" pos="-7.728614 -7.505698 7.502034" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-5.452692 -8.105698 9.929552" rpy="90.0 90.0 0.0" /><!--kitchen side-->
+					<proxy type="MetalPlate" pos="-5.452692 -7.505698 9.929552" rpy="90.0 90.0 0.0" />
+					
+					<proxy type="RefrigeratorMinsk" pos="-7.075144 -8.466293 4.932994" rpy="0.0 180.0 0.0" />
+					
+					<proxy type="WaterproofBag_Orange" pos="0.910543 -9.389137 6.553037" rpy="0.0 0.0 0.0" /><!--laundry right shelf bottom left-->
+					<proxy type="WaterproofBag_Orange" pos="0.989271 -9.009136 6.939925" rpy="0.0 0.0 0.0" /><!--laundry right shelf middle right-->
+					<proxy type="FirstAidKit" pos="0.973562 -8.509137 6.889151" rpy="0.0 180.0 0.0" /><!--laundry right shelf bottom right-->
+					<proxy type="WaterproofBag_Orange" pos="0.924958 -9.383118 6.194222" rpy="0.0 0.0 0.0" /><!--bottom shelf left laundry-->
+					<proxy type="HighCapacityVest_Black" pos="1.693571 -8.660786 5.807706" rpy="0.0 90.0 0.0" /><!--on 2 cardboard boxes laundry-->
+					
+					<proxy type="AK101_black" pos="-3.071314 -0.930102 4.919641" rpy="0.0 90.0 0.0" /><!--TOP RIGHT BIG BOOKSHELF-->
+					<proxy type="AK74_black" pos="-2.960916 -1.295351 4.919641" rpy="0.0 -90.0 0.0" /><!--BOTTOM RIGHT BIG BOOKSHELF-->
+					<proxy type="AmmoBox" pos="-4.300916 -1.319351 4.885545" rpy="0.0 0.0 0.0" /><!--BOTTOM RIGHT BIG BOOKSHELF-->
+					<proxy type="AmmoBox" pos="-4.180916 -1.319351 4.885545" rpy="0.0 0.0 0.0" /><!--BOTTOM RIGHT BIG BOOKSHELF-->
+					<proxy type="AmmoBox" pos="-4.060916 -1.319351 4.885545" rpy="0.0 0.0 0.0" /><!--BOTTOM RIGHT BIG BOOKSHELF-->
+					<proxy type="WeaponCleaningKit" pos="-4.450916 -1.319351 4.885545" rpy="0.0 0.0 0.0" /><!--BOTTOM RIGHT BIG BOOKSHELF-->
+					<proxy type="FirstAidKit" pos="-4.480916 -1.329351 4.885545" rpy="0.0 0.0 0.0" /><!--BOTTOM RIGHT BIG BOOKSHELF-->
+					
+					<proxy type="Saiga" pos="-5.508498 -1.127557 -3.563393" rpy="0.0 90.0 0.0" /><!--BEDROOM TABLE DESK-->
+					<proxy type="Mag_Saiga_Drum20Rnd" pos="-5.508498 -1.667557 -3.863393" rpy="90.0 90.0 0.0" /><!--BEDROOM TABLE DESK-->
+					<proxy type="Mag_Saiga_Drum20Rnd" pos="-5.508498 -1.657557 -3.723393" rpy="90.0 90.0 90.0" /><!--BEDROOM TABLE DESK-->
+					<proxy type="SmallProtectorCase" pos="-2.418986 -1.195516 -6.620885" rpy="90.0 0.0 0.0" /><!--BEDROOM WOOD SHELF LEFT-->
+					<proxy type="SmershBag" pos="-2.389769 -1.164516 -7.211666" rpy="0.0 90.0 0.0" /><!--BEDROOM WOOD SHELF RIGHT-->
+					<proxy type="PortableGasLamp" pos="-4.090784 -1.888771 -9.735286" rpy="0.0 0.0 0.0" /><!--APT BEDSIDE LEFT-->
+					<proxy type="BookGunmansReckoning" pos="-6.264670 -1.864771 -9.740270" rpy="90.0 60.0 0.0" /><!--APT BESIDE TABLE RIGHT-->
+					<proxy type="BookGulliversTravels" pos="-5.374856 -1.733044 4.691456" rpy="90.0 185.0 0.0" /><!--TABLE NEXT TO GLOBE-->
+					<proxy type="Mich2001Helmet" pos="-2.294442 -2.018578 0.259321" rpy="0.0 180.0 0.0" /><!--SECOND SHELF BOOKSHELF -->
+					<proxy type="BallisticHelmet_black" pos="-2.294442 -2.344578 0.259321" rpy="0.0 180.0 0.0" /><!--1st SHELF BOOKSHELF-->
+					
+					<proxy type="WaterproofBag_Yellow" pos="-5.473274 -1.359144 -2.755994" rpy="0.0 0.0 0.0" /><!--TV TOP RIGHT-->
+					<proxy type="SodaCan_Kvass" pos="-6.047779 -1.901956 -2.873429" rpy="0.0 0.0 0.0" /><!--TABLE RIGHT OF TV-->
+					<proxy type="Scout_Livonia" pos="-5.673274 -0.750102 -3.095994" rpy="0.0 90.0 0.0" /><!--above TV-->
+					<proxy type="M16A2" pos="-5.673274 -0.950102 -3.095994" rpy="0.0 90.0 0.0" /><!--above TV-->
+					
+					<proxy type="SmallProtectorCase" pos="7.932583 -1.484308 6.742080" rpy="0.0 0.0 0.0" /><!--4th landing metal shelf bottom left-->
+					<proxy type="SmershBag" pos="7.938871 -1.490308 6.299054" rpy="90.0 0.0 0.0" /><!--4th landing metal shelf middle right-->
+					<proxy type="WaterproofBag_Orange" pos="7.832583 -1.890308 6.742080" rpy="0.0 0.0 0.0" /><!--4th landing metal shelf bottom left-->
+					<proxy type="WaterproofBag_Yellow" pos="7.938871 -1.890308 6.329054" rpy="0.0 0.0 0.0" /><!--4th landing metal shelf middle right-->
+					<proxy type="M16A2" pos="7.968871 -1.510308 5.369054" rpy="0.0 0.0 0.0" /><!--4th landing metal shelf top-->
+					<proxy type="AK101_Black" pos="8.055682 -0.708239 5.319897" rpy="0.0 0.0 0.0" /><!--4th Landing wall right of shelf GUNS-->
+					<proxy type="AK74_Black" pos="8.055682 -0.958239 5.319897" rpy="0.0 0.0 0.0" /><!--4th Landing wall right of shelf GUNS-->
+					<proxy type="SKS_Black" pos="8.055682 -0.618239 6.319897" rpy="0.0 0.0 0.0" /><!--4th Landing wall right of shelf GUNS-->
+					
+					<proxy type="AK74_black" pos="7.951431 2.181799 6.332364" rpy="0.0 0.0 0.0" /><!--TOP LANDING WALL GUNS-->
+					<proxy type="Mosin9130_black" pos="7.958244 2.211803 5.097525" rpy="0.0 0.0 0.0" /><!--TOP LANDING WALL GUNS-->
+					<proxy type="Winchester70_black" pos="7.958244 2.861803 5.097525" rpy="0.0 0.0 0.0" /><!--TOP LANDING WALL GUNS-->
+					<proxy type="M16A2" pos="7.811431 2.871803 6.332364" rpy="0.0 0.0 0.0" /><!--TOP LANDING WALL GUNS-->
+					
+				</dispatch>
+		</group>
+		<group name="Land_HouseBlock_3F_Corner1GREEN" lootmax="200"><!--dont forget to copy any changes to black corner1-->
+				<usage name="Sorted" />
+				<container name="lootFloor" lootmax="2"><!--npc's for scare factor-->
+						<category name="NPC" />
+						<point pos="-2.721501 -9.870136 7.905430" range="0.789795" height="1.974442" /><!--kitchen bathroom downstairs-->
+						<point pos="-3.035110 -2.444508 4.362595" range="0.794678" height="1.986679" /><!-- corner of apartment upstairs-->
+				</container>
+				<dispatch>
+						<proxy type="Ammo_12gaRubberSlug" pos="-7.028971 -8.973447 6.147990" rpy="0.0 0.0 0.0" /><!--kitchen counter left/left-->
+						<proxy type="SawedoffIzh43Shotgun" pos="-7.058913 -8.983813 6.751074" rpy="50.0 0.0 0.0" /><!--kitchen counter left/right-->
+						<proxy type="FryingPan" pos="-6.992862 -8.969257 7.481156" rpy="0.0 0.0 0.0" /><!--stovetop-->
+						<proxy type="PortableGasLamp" pos="-7.037397 -8.905869 8.788832" rpy="0.0 0.0 0.0" /><!--top shelf/right kitchen blue shelf-->
+						<proxy type="Rice" pos="-7.012799 -9.195967 8.377701" rpy="0.0 0.0 0.0" /><!--2nd shelf/left kitchen blue shelf-->
+						<proxy type="SardinesCan_Opened" pos="-7.037397 -9.194967 8.788832" rpy="0.0 0.0 0.0" /><!--2nd shelf/right kitchen blue shelf-->
+						<proxy type="PortableGasStove" pos="-7.012799 -8.905869 8.377701" rpy="0.0 0.0 0.0" /><!--top shelf/left kitchen blue shelf-->
+						<proxy type="FangeKnife" pos="-7.037397 -9.547967 8.788832" rpy="90.0 0.0 0.0" /><!--bottom? shelf/right kitchen blue shelf-->
+						<proxy type="SodaCan_Kvass" pos="-7.012799 -9.495967 8.377701" rpy="0.0 0.0 0.0" /><!--bottom? shelf/left kitchen blue shelf-->
+						<proxy type="TacticalBaconCan_Opened" pos="-4.472119 -8.851302 8.977868" rpy="0.0 0.0 0.0" /><!--counter kitchen left of sink-->
+						<proxy type="SodaCan_Kvass" pos="-4.485227 -8.861302 7.810919" rpy="0.0 0.0 0.0" /><!--counter kitchen right of sink-->
+						<proxy type="HuntingJacket_Autumn" pos="-1.539038 -9.785141 -9.734552" rpy="0.0 90.0 0.0" /><!--bottom shelf 1st fl-->
+						<proxy type="HuntingJacket_Spring" pos="-1.539038 -9.285141 -9.734552" rpy="0.0 90.0 0.0" /><!--2nd bottom shelf 1st fl-->
+						<proxy type="HuntingJacket_Summer" pos="-1.164268 -9.285141 -9.843278" rpy="0.0 90.0 0.0" /><!--2nd from bottom shelf 1st fl-->
+						<proxy type="HuntingJacket_Winter" pos="-1.164268 -8.785141 -9.843278" rpy="0.0 90.0 0.0" /><!--3rd? from bottom shelf 1st fl-->
+						<proxy type="MilitaryBoots_Bluerock" pos="-1.164268 -9.785141 -9.843278" rpy="0.0 90.0 0.0" /><!--3rd? from bottom shelf 1st fl-->
+						<proxy type="BoxCerealCrunchin" pos="-5.405457 -8.902724 3.123021" rpy="0.0 0.0 0.0" /><!--kitchen table-->
+						<proxy type="BaseRadio" pos="-6.609313 -1.757557 -3.980448" rpy="0.0 0.0 0.0" /><!--up apart bedroom corner table next to tv -->
+				</dispatch>
+				<dispatch>
+					<proxy type="AK101_green" pos="0.821392 -6.570531 5.851107" rpy="0.0 0.0 0.0" /><!--upstairs landing guns-->
+					<proxy type="AK74_green" pos="0.821392 -6.270531 5.851107" rpy="0.0 0.0 0.0" /><!--upstairs landing guns-->
+					<proxy type="Winchester70_green" pos="0.821392 -5.970531 5.851107" rpy="0.0 0.0 0.0" /><!--upstairs landing guns-->
+					<proxy type="Mosin9130_green" pos="0.821392 -5.670531 5.851107" rpy="0.0 0.0 0.0" /><!--upstairs landing guns-->
+					<proxy type="B95_green" pos="0.821392 -5.370531 5.851107" rpy="0.0 0.0 0.0" /><!--upstairs landing guns-->
+					<proxy type="SKS_green" pos="0.821392 -5.070531 5.851107" rpy="0.0 0.0 0.0" /><!--upstairs landing guns-->
+					<proxy type="AliceBag_green" pos="0.821392 0.407102 5.851107" rpy="0.0 180.0 0.0" /><!--5th landing -->
+					<proxy type="AssaultBag_green" pos="0.861392 1.000101 5.851107" rpy="0.0 180.0 0.0" /><!--5th landing -->
+					<proxy type="DryBag_green" pos="0.821392 1.000101 5.401107" rpy="0.0 180.0 0.0" /><!--5th landing -->
+					<proxy type="DryBag_green" pos="0.861392 0.506102 5.401107" rpy="0.0 180.0 0.0" /><!--5th landing -->
+					<proxy type="AK74_green" pos="-6.457673 -1.403529 -2.878564" rpy="0.0 90.0 0.0" /><!-- upstairs apt big bookshelf-->
+					<proxy type="M16A2" pos="-6.457673 -0.904529 -2.878564" rpy="0.0 90.0 0.0" /><!-- upstairs apt big bookshelf-->
+					<proxy type="M16A2" pos="-6.457673 -0.444529 -2.878564" rpy="0.0 90.0 0.0" /><!-- upstairs apt big bookshelf-->
+					<proxy type="FirstAidKit" pos="-4.742390 -1.381529 -2.878564" rpy="0.0 0.0 0.0" /><!-- upstairs apt big bookshelf nook far left-->
+					<proxy type="Ammobox" pos="-4.842390 -1.381529 -2.878564" rpy="0.0 0.0 0.0" /><!-- upstairs apt big bookshelf nook left-->
+					<proxy type="Ammobox" pos="-4.942390 -1.381529 -2.878564" rpy="0.0 0.0 0.0" /><!-- upstairs apt big bookshelf nook left-->
+					<proxy type="Ammobox" pos="-5.062390 -1.381529 -2.878564" rpy="0.0 0.0 0.0" /><!-- upstairs apt big bookshelf nook original-->
+					<proxy type="Ammobox" pos="-5.182390 -1.381529 -2.878564" rpy="0.0 0.0 0.0" /><!-- upstairs apt big bookshelf nook right-->
+					<proxy type="SmallProtectorCase" pos="-5.312390 -1.381529 -2.878564" rpy="0.0 0.0 0.0" /><!-- upstairs apt big bookshelf nook far right-->
+					
+					<proxy type="RefrigeratorMinsk" pos="-4.632428 -8.474792 7.160031" rpy="0.0 0.0 0.0" /><!--top of fridge-->
+					
+					<proxy type="MetalPlate" pos="-7.456994 -0.194743 -9.19059" rpy="90.0 0.0 0.0" /><!--upstairs apart window plates left to right-->
+					<proxy type="MetalPlate" pos="-7.456994 -0.594743 -9.19059" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.794743 -9.19059" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.194743 -6.27059" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.594743 -6.27059" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -1.794743 -6.27059" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.194743 -4.40524" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.894743 -4.40524" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.194743 -2.16455" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.894743 -2.16455" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.194743 -0.14779" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.894743 -0.14779" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.194743 2.06039" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.894743 2.06039" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.194743 4.14144" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.456994 -0.894743 4.14144" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="6.607574 -0.434529 1.31719" rpy="90.0 0.0 90.0" /><!--hall upstairs was -0.434529-->
+					<proxy type="MetalPlate" pos="-5.414374 -8.374792 9.73354" rpy="90.0 0.0 90.0" /><!--downstairs kitchen window-->
+					<proxy type="MetalPlate" pos="0.779155 -8.374792 -8.78063" rpy="90.0 0.0 0.0" /><!--end hall near back door    NEW-->
+					<proxy type="MetalPlate" pos="0.806214 -8.374792 -0.700929" rpy="90.0 0.0 0.0" /><!--hall window near kitchen door   NEW -->
+					<proxy type="MetalPlate" pos="6.601423 -8.374792 1.274144" rpy="90.0 90.0 0.0" /><!--entrance NEW -->
+					
+					<proxy type="Mosin9130_green" pos="6.758423 -0.690900 6.878872" rpy="0.0 90.0 0.0" /><!--4th shelves 2nd top left shelf-->
+					<proxy type="AmmoBox_762x54Tracer_20Rnd" pos="6.758423 -0.687900 6.878872" rpy="90.0 0.0 0.0" /><!--4th shelves 2nd top left shelf-->
+					<proxy type="AmmoBox_762x54Tracer_20Rnd" pos="6.750423 -0.687900 6.878872" rpy="90.0 0.0 0.0" /><!--4th shelves 2nd top left shelf-->
+					<proxy type="WoodenCrate" pos="6.708423 -1.080900 6.856872" rpy="0.0 180.0 0.0" /><!--4th shelves 2nd bottom left shelf-->
+					<proxy type="Winchester70_green" pos="7.888862 -0.690900 5.571166" rpy="0.0 0.0 0.0" /><!--4th shelves  top right shelf-->
+					<proxy type="AmmoBox_308WinTracer_20Rnd" pos="7.888862 -0.688000 5.571166" rpy="90.0 90.0 0.0" /><!--4th right shelf-->
+					<proxy type="AmmoBox_308WinTracer_20Rnd" pos="7.888862 -0.688000 5.569066" rpy="90.0 90.0 0.0" /><!--4th right shelf-->
+					<proxy type="BallisticHelmet_green" pos="7.943862 -1.150311 5.571166" rpy="0.0 180.0 0.0" /><!--4th shelves 2nd top right shelf-->
+					<proxy type="Mich2001Helmet" pos="7.864363 -1.150311 5.892962" rpy="0.0 180.0 0.0" /><!--4th shelves 2nd top right shelf-->
+					<proxy type="NVGHeadstrap" pos="7.864363 -1.490899 5.892962" rpy="0.0 180.0 0.0" /><!--4th shelves 2nd bottom right shelf-->
+					<proxy type="AviatorGlasses" pos="7.943862 -1.490899 5.571166" rpy="0.0 180.0 0.0" /><!--4th shelves 2nd bottom right shelf-->
+					<proxy type="WaterproofBag_Green" pos="6.618423 -1.490899 6.878872" rpy="0.0 0.0 0.0" /><!--4th shelves 2nd middle left shelf-->
+					<proxy type="WaterproofBag_Green" pos="7.017888 -1.490899 6.851415" rpy="0.0 0.0 0.0" /><!--4th shelves 2nd middle left shelf-->
+					<proxy type="SmershBag" pos="6.578423 -1.856000 6.878872" rpy="90.0 0.0 0.0" /><!--4th shelves 2nd bottom left shelf-->
+					<proxy type="WeaponCleaningKit" pos="7.017888 -1.826000 6.851415" rpy="90.0 0.0 0.0" /><!--4th  shelves 2nd bottom left shelf-->
+					<proxy type="WaterproofBag_Yellow" pos="7.864363 -1.910309 5.892962" rpy="0.0 70.0 0.0" /><!--4th  shelves 2nd bottom right shelf-->
+					<proxy type="WaterproofBag_Green" pos="7.943862 -1.910309 5.571166" rpy="0.0 70.0 0.0" /><!--4th  shelves 2nd bottom right shelf-->
+					<proxy type="MilitaryBoots_green" pos="6.618423 -2.280000 6.878872" rpy="0.0 70.0 0.0" /><!--4th shelves 2nd bottom left shelf-->
+					<proxy type="MilitaryBoots_Redpunk" pos="7.017888 -2.280000 6.851415" rpy="0.0 70.0 0.0" /><!--4th  shelves 2nd bottom left shelf-->
+					<proxy type="MilitaryBoots_Bluerock" pos="7.864363 -2.270009 5.892962" rpy="0.0 140.0 0.0" /><!--4th  shelves 2nd bottom right shelf-->
+					<proxy type="Sneakers_green" pos="7.943862 -2.270009 5.571166" rpy="0.0 180.0 0.0" /><!--4th  shelves 2nd bottom right shelf-->
+					
+					<proxy type="BookTheArtOfWar" pos="-5.372644 -1.928210 3.140886" rpy="90.0 60.0 0.0" /><!--9.9.0 upstairs apt coffee table left-->
+					<proxy type="BookWarAndPeace" pos="-5.316649 -1.920545 3.928113" rpy="90.0 120.0 0.0" /><!--upstairs apt coffee table right-->
+					<proxy type="PortableGasLamp" pos="-5.918182 -1.848767 -9.724967" rpy="0.0 0.0 0.0" /><!--upstairs apt bedroom bedside table -->
+					<proxy type="PumpkinHelmet" pos="-5.536915 -0.643443 -3.922682" rpy="0.0 90.0 0.0" /><!--upstairs apt bedroom tv top-->
+					<proxy type="Saiga" pos="-2.369895 -1.000009 0.706010" rpy="0.0 0.0 0.0" /><!--metal shelf left shelf-->
+					<proxy type="Mag_Saiga_Drum20Rnd" pos="-2.362397 -1.000001 0.967158" rpy="0.0 0.0 0.0" /><!--metal shelf up apart 2ndbottom leftshelf-->
+					<proxy type="Mag_Saiga_Drum20Rnd" pos="-2.360147 -1.000001 1.067158" rpy="0.0 0.0 0.0" /><!--metal shelf up apart 2ndbottom leftshelf-->
+					<proxy type="Saiga" pos="-2.369895 -0.642688 0.706010" rpy="0.0 0.0 0.0" /><!--metal shelf up apart 2ndtop leftshelf -->
+					<proxy type="Mag_Saiga_Drum20Rnd" pos="-2.362397 -0.650001 0.967158" rpy="0.0 0.0 0.0" /><!--metal shelf up apart 2ndbottom leftshelf-->
+					<proxy type="Mag_Saiga_Drum20Rnd" pos="-2.360147 -0.650001 1.067158" rpy="0.0 0.0 0.0" /><!--metal shelf up apart 2ndbottom leftshelf-->
+					<proxy type="WoodenCrate" pos="-2.379526 -1.516688 0.856010" rpy="0.0 90.0 0.0" /><!--metal shelf up apart 2ndtop leftshelf-->
+					<proxy type="WoodenCrate" pos="-2.354334 -1.517488 -0.054196" rpy="0.0 90.0 0.0" /><!--metal shelf up apart middle rightshelf-->
+					<proxy type="SodaCan_Kvass" pos="-2.354334 -0.536688 1.189196" rpy="0.0 0.0 0.0" /><!--metal shelf up apart middle rightshelf-->
+					<proxy type="SodaCan_Kvass" pos="-2.354334 -0.632488 1.054196" rpy="0.0 0.0 0.0" /><!--metal shelf up apart middle rightshelf-->
+
+					<proxy type="AK101_green" pos="4.388669 -0.573030 1.675001" rpy="0.0 90.0 0.0" /><!-- upstairs hallway above YELLOW SHELF -->
+					<proxy type="AK74_green" pos="3.065408 -0.601689 1.670001" rpy="0.0 90.0 0.0" /><!--upstairs hallway above metal shelf right of yellow -->
+					<proxy type="B95_green" pos="3.102232 -0.306688 1.660001" rpy="0.0 90.0 0.0" /><!--upstairs hallway above metal shelf right of yellow-->
+					
+					<proxy type="PumpkinHelmet" pos="7.872386 -9.067414 1.946012" rpy="0.0 -90.0 0.0" /><!--on cardboard box entry-->
+					<proxy type="WaterproofBag_Green" pos="3.012220 -9.525692 6.949729" rpy="0.0 0.0 0.0" /><!--shelf next to dryer/washer right bottom-->
+					<proxy type="WaterproofBag_Green" pos="2.625706 -9.525692 6.949729" rpy="0.0 0.0 0.0" /><!--shelf next to dryer/washer left bottom-->
+					<proxy type="WaterproofBag_Green" pos="3.012220 -9.145691 6.949729" rpy="0.0 0.0 0.0" /><!--shelf next to dryer/washer -->
+					<proxy type="WaterproofBag_Green" pos="0.991185 -9.145691 5.833260" rpy="0.0 0.0 0.0" /><!--shelf next to dryer/washer left-->
+					<proxy type="WaterproofBag_Green" pos="0.991185 -9.525692 5.833260" rpy="0.0 0.0 0.0" /><!--shelf next to dryer/washer left upper-->
+					<proxy type="WaterproofBag_Green" pos="2.625706 -9.145691 6.923977" rpy="0.0 0.0 0.0" /><!--shelf next to dryer/washer -->
+					<proxy type="HighCapacityVest_Olive" pos="1.864266 -8.723251 6.819051" rpy="0.0 90.0 0.0" /><!--top of dryer/washer right-->
+				</dispatch>
+		</group>
+		<group name="Land_HouseBlock_3F_Corner2GREEN" lootmax="200">
+				<usage name="Sorted" />
+				<dispatch>						
+					<proxy type="BoxCerealCrunchin" pos="-5.040524 -8.941816 3.647122" rpy="0.0 0.0 0.0" /><!--downstairs kitchen table was -8.991816-->
+					<proxy type="PortableGasStove" pos="-7.120696 -9.020981 5.731319" rpy="0.0 0.0 0.0" /><!--kitchen counter left-->
+					<proxy type="FryingPan" pos="-7.068655 -9.000023 6.657862" rpy="0.0 0.0 0.0" /><!--stove top-->
+					<proxy type="BookHunger" pos="-7.090388 -9.020981 7.395907" rpy="90.0 185.0 0.0" /><!--kitchen counter right of stove-->
+				</dispatch>
+				<dispatch>
+					<proxy type="MetalPlate" pos="6.602264 -0.443102 1.250914" rpy="90.0 90.0 0.0" /><!--apt floor hallway -->
+					<proxy type="MetalPlate" pos="6.602264 -1.005698 1.250914" rpy="90.0 90.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.543210 -1.006549 -2.147491" rpy="90.0 0.0 0.0" /><!--APT LIVING ROOM 1ST WINDOW PLATE-->
+					<proxy type="MetalPlate" pos="-7.543210 -0.406549 -2.147491" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.543210 -1.666549 -0.047801" rpy="90.0 0.0 0.0" /><!--APT LIVING ROOM 2ND WINDOW PLATE-->
+					<proxy type="MetalPlate" pos="-7.543210 -0.436549 -0.047801" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.543210 -1.003259 1.982745" rpy="90.0 0.0 0.0" /><!-- APT LIVING ROOM 3RD WINDOW PLATE---->
+					<proxy type="MetalPlate" pos="-7.543210 -0.453259 1.982745" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.543210 -1.053259 4.173324" rpy="90.0 0.0 0.0" /><!-- APT LIVING ROOM 4TH WINDOW PLATE---->
+					<proxy type="MetalPlate" pos="-7.543210 -0.453259 4.173324" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.543210 -1.044512 -9.180834" rpy="90.0 0.0 0.0" /><!--WINDOW APT BEDROOM LEFT PLATE-->
+					<proxy type="MetalPlate" pos="-7.543210 -0.444512 -9.180834" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.543210 -1.454512 -4.304990" rpy="90.0 0.0 0.0" /><!--WINDOW APT BEDROOM RIGHT PLATE was 5.004990-->
+					<proxy type="MetalPlate" pos="-7.543210 -0.434512 -4.304990" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.543210 -0.964512 -6.390134" rpy="90.0 0.0 0.0" /><!--WINDOW APT MIDDLE BEDROOM PLATE-->
+					<proxy type="MetalPlate" pos="-7.543210 -0.404512 -6.390134" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="0.906572 -8.005698 -8.713742" rpy="90.0 0.0 0.0" /><!--bottom floor end of hallway window PLATE-->
+					<proxy type="MetalPlate" pos="0.753233 -8.005698 -0.647389" rpy="90.0 0.0 0.0" /><!--bottom floor 2nd end hallway window PLATE-->
+					<proxy type="MetalPlate" pos="6.583053 -8.005698 1.249593" rpy="90.0 90.0 0.0" /><!--bottom floor entry by stairs window PLATE-->
+					<proxy type="MetalPlate" pos="-7.741872 -8.105698 3.264552" rpy="90.0 0.0 0.0" /><!--kitchen entry window-->
+					<proxy type="MetalPlate" pos="-7.741872 -7.505698 3.264552" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-7.728614 -8.105698 7.502034" rpy="90.0 0.0 0.0" /><!--kitchen end by side window-->
+					<proxy type="MetalPlate" pos="-7.728614 -7.505698 7.502034" rpy="90.0 0.0 0.0" />
+					<proxy type="MetalPlate" pos="-5.452692 -8.105698 9.929552" rpy="90.0 90.0 0.0" /><!--kitchen side-->
+					<proxy type="MetalPlate" pos="-5.452692 -7.505698 9.929552" rpy="90.0 90.0 0.0" />
+				</dispatch>
+				<dispatch>
+					<proxy type="RefrigeratorMinsk" pos="-7.075144 -8.466293 4.932994" rpy="0.0 180.0 0.0" />
+					
+					<proxy type="WaterproofBag_Green" pos="0.910543 -9.389137 6.553037" rpy="0.0 0.0 0.0" /><!--laundry right shelf bottom left-->
+					<proxy type="WaterproofBag_Green" pos="0.989271 -9.009136 6.939925" rpy="0.0 0.0 0.0" /><!--laundry right shelf middle right-->
+					<proxy type="FirstAidKit" pos="0.973562 -8.509137 6.889151" rpy="0.0 180.0 0.0" /><!--laundry right shelf bottom right-->
+					<proxy type="WaterproofBag_Green" pos="0.924958 -9.383118 6.194222" rpy="0.0 0.0 0.0" /><!--bottom shelf left laundry-->
+					<proxy type="HighCapacityVest_Olive" pos="1.693571 -8.660786 5.807706" rpy="0.0 90.0 0.0" /><!--on 2 cardboard boxes laundry-->
+					
+					<proxy type="AK101_Green" pos="-3.071314 -0.900102 4.919641" rpy="0.0 90.0 0.0" /><!--TOP RIGHT BIG BOOKSHELF was -0.954102-->
+					<proxy type="AK74_Green" pos="-2.960916 -1.295351 4.919641" rpy="0.0 -90.0 0.0" /><!--BOTTOM RIGHT BIG BOOKSHELF-->
+					<proxy type="AmmoBox" pos="-4.300916 -1.319351 4.885545" rpy="0.0 0.0 0.0" /><!--BOTTOM RIGHT BIG BOOKSHELF-->
+					<proxy type="AmmoBox" pos="-4.180916 -1.319351 4.885545" rpy="0.0 0.0 0.0" /><!--BOTTOM RIGHT BIG BOOKSHELF-->
+					<proxy type="AmmoBox" pos="-4.060916 -1.319351 4.885545" rpy="0.0 0.0 0.0" /><!--BOTTOM RIGHT BIG BOOKSHELF-->
+					<proxy type="SmallProtectorCase" pos="-4.450916 -1.319351 4.885545" rpy="0.0 0.0 0.0" /><!--BOTTOM RIGHT BIG BOOKSHELF-->
+					<proxy type="FirstAidKit" pos="-4.480916 -1.329351 4.885545" rpy="0.0 0.0 0.0" /><!--BOTTOM RIGHT BIG BOOKSHELF-->
+					
+					<proxy type="Saiga" pos="-5.508498 -1.127557 -3.563393" rpy="0.0 90.0 0.0" /><!--BEDROOM TABLE DESK-->
+					<proxy type="Mag_Saiga_Drum20Rnd" pos="-5.508498 -1.667557 -3.863393" rpy="90.0 90.0 0.0" /><!--BEDROOM TABLE DESK-->
+					<proxy type="Mag_Saiga_Drum20Rnd" pos="-5.508498 -1.657557 -3.723393" rpy="90.0 90.0 90.0" /><!--BEDROOM TABLE DESK-->
+					<proxy type="SmallProtectorCase" pos="-2.418986 -1.195516 -6.620885" rpy="90.0 0.0 0.0" /><!--BEDROOM WOOD SHELF LEFT-->
+					<proxy type="SmershBag" pos="-2.389769 -1.164516 -7.211666" rpy="0.0 90.0 0.0" /><!--BEDROOM WOOD SHELF RIGHT-->
+					<proxy type="PortableGasLamp" pos="-4.090784 -1.888771 -9.735286" rpy="0.0 0.0 0.0" /><!--APT BEDSIDE LEFT-->
+					<proxy type="BookGunmansReckoning" pos="-6.264670 -1.864771 -9.740270" rpy="90.0 60.0 0.0" /><!--APT BESIDE TABLE RIGHT-->
+					<proxy type="BookGulliversTravels" pos="-5.374856 -1.733044 4.691456" rpy="90.0 185.0 0.0" /><!--TABLE NEXT TO GLOBE-->
+					<proxy type="Mich2001Helmet" pos="-2.294442 -2.018578 0.259321" rpy="0.0 180.0 0.0" /><!--SECOND SHELF BOOKSHELF -->
+					<proxy type="BallisticHelmet_Green" pos="-2.294442 -2.344578 0.259321" rpy="0.0 180.0 0.0" /><!--1st SHELF BOOKSHELF-->
+					
+					<proxy type="WaterproofBag_Yellow" pos="-5.473274 -1.395144 -2.755994" rpy="0.0 0.0 0.0" /><!--TV TOP RIGHT-->
+					<proxy type="SodaCan_Kvass" pos="-6.047779 -1.901956 -2.873429" rpy="0.0 0.0 0.0" /><!--TABLE RIGHT OF TV-->
+					<proxy type="TacticalBaconCan_Opened" pos="-4.669779 -1.901956 -2.753429" rpy="0.0 0.0 0.0" /><!--TABLE RIGHT OF TV was -4.647779-->
+					<proxy type="Scout_Livonia" pos="-5.673274 -0.750102 -3.095994" rpy="0.0 90.0 0.0" /><!--above TV-->
+					<proxy type="M16A2" pos="-5.673274 -0.950102 -3.095994" rpy="0.0 90.0 0.0" /><!--above TV-->
+					
+					<proxy type="SmallProtectorCase" pos="7.932583 -1.384308 6.742080" rpy="0.0 0.0 0.0" /><!--4th landing metal shelf bottom left-->
+					<proxy type="SmershBag" pos="7.938871 -1.490308 6.299054" rpy="90.0 0.0 0.0" /><!--4th landing metal shelf middle right-->
+					<proxy type="WaterproofBag_Green" pos="7.832583 -1.890308 6.742080" rpy="0.0 0.0 0.0" /><!--4th landing metal shelf bottom left-->
+					<proxy type="WaterproofBag_Yellow" pos="7.938871 -1.890308 6.329054" rpy="0.0 0.0 0.0" /><!--4th landing metal shelf middle right-->
+					<proxy type="M16A2" pos="7.968871 -1.510308 5.369054" rpy="0.0 0.0 0.0" /><!--4th landing metal shelf top-->
+					<proxy type="AK101_Green" pos="8.055682 -0.658239 5.319897" rpy="0.0 0.0 0.0" /><!--4th Landing wall right of shelf GUNS-->
+					<proxy type="AK74_Green" pos="8.055682 -0.958239 5.319897" rpy="0.0 0.0 0.0" /><!--4th Landing wall right of shelf GUNS-->
+					<proxy type="SKS_Green" pos="8.055682 -0.618239 6.319897" rpy="0.0 0.0 0.0" /><!--4th Landing wall right of shelf GUNS-->
+					
+					<proxy type="AK74_Green" pos="7.941431 2.181799 6.332364" rpy="0.0 0.0 0.0" /><!--TOP LANDING WALL GUNS-->
+					<proxy type="Mosin9130_Green" pos="7.958244 2.211803 5.097525" rpy="0.0 0.0 0.0" /><!--TOP LANDING WALL GUNS-->
+					<proxy type="Winchester70_Green" pos="7.958244 2.861803 5.097525" rpy="0.0 0.0 0.0" /><!--TOP LANDING WALL GUNS-->
+					<proxy type="M16A2" pos="7.811431 2.871803 6.332364" rpy="0.0 0.0 0.0" /><!--TOP LANDING WALL GUNS-->
+					
+				</dispatch>
+		</group>
+		<group name="Land_Village_PubHUNT">
+				<usage name="Pub" />
+				<dispatch>
+					 <proxy type="B95" pos="-1.594574 -1.28799 7.505334" rpy="0.0 90.0 0.0" /><!--top over fireplace-->
+					 <proxy type="GiftBox_Small_1" pos="-1.594574 -1.50099 7.595334" rpy="90.0 90.0 0.0" /><!--mantle fireplace 90.0 90.0 0.0 bow out-->
+					 <proxy type="Mosin9130" pos="-1.594574 -1.78799 7.505334" rpy="0.0 90.0 0.0" /><!--over fireplace-->
+					 
+					 <proxy type="Winchester70" pos="-1.01777 -1.48636 -0.116997" rpy="0.0 180.0 0.0" />
+					 <proxy type="Mp133Shotgun" pos="-1.01777 -1.72636 -0.116997" rpy="0.0 180.0 0.0" />
+					 
+					 <proxy type="SKS" pos="-1.661364 1.314531 7.51652" rpy="0.0 90.0 0.0" /><!--upstairs fireplace-->
+					 <proxy type="Repeater" pos="-1.661364 0.974531 7.51652" rpy="0.0 90.0 0.0" /><!--upstairs fireplace-->
+					 <proxy type="Scout_Chernarus" pos="-1.661364 0.608531 7.51652" rpy="0.0 90.0 0.0" />
+					 
+					 <proxy type="SodaCan_Fronta" pos="-2.058105 -2.549552 0.237229" rpy="0.0 80.0 0.0" /><!--on bar left-->
+					 <proxy type="Vodka" pos="-2.058105 -2.490552 0.334229" rpy="0.0 180.0 0.0" /><!--on bar left was -2.430552-->
+					 <proxy type="SodaCan_Cola" pos="-2.058105 -2.549552 0.436229" rpy="0.0 180.0 0.0" /><!--on bar left-->
+					 
+					 <proxy type="RefrigeratorMinsk" pos="-1.102724 -3.468712 -1.84544" rpy="0.0 0.0 0.0" /><!--bar right -1.2 back -0.4 up -1.9 right -->
+					 
+					 <proxy type="HuntingJacket_Brown" pos="-2.946503 0.658531 4.711915" rpy="0.0 -75.0 0.0" /><!--big bookshelf bottom right-->
+					 <proxy type="HuntingJacket_Spring" pos="-3.466503 0.658531 4.711915" rpy="0.0 -75.0 0.0" /><!--big bookshelf upstairs top r-->
+					 <proxy type="MilitaryBoots_Black" pos="-3.996503 0.658531 4.711915" rpy="0.0 -80.0 0.0" /><!--big bookshelf bottom right-->
+					 
+					 <proxy type="CowboyHat_darkBrown" pos="-2.061779 0.179352 4.747557" rpy="90.0 -45.0 0.0" /><!--cubby upstairs-->
+					 <proxy type="NVGHeadstrap" pos="-2.265779 0.179352 4.717557" rpy="0.0 -45.0 0.0" /><!--cubby upstairs-->
+					 <proxy type="GiftBox_Large_1" pos="-3.004503 0.189352 4.719573" rpy="0.0 0.0 0.0" /><!--big bookshelf bottom right-->
+					 <proxy type="GiftBox_Medium_2" pos="-3.496018 0.189352 4.719573" rpy="0.0 -90.0 0.0" /><!--big bookshelf bottom right-->
+					 <proxy type="GiftBox_Medium_3" pos="-3.916503 0.189352 4.719573" rpy="0.0 0.0 0.0" /><!--big bookshelf bottom right-->
+					 
+					 <proxy type="Bear_White" pos="0.891113 0.325468 7.180908" rpy="0.0 0.0 0.0" /><!--Top of TV was 0.260468--->
+					 <proxy type="Binoculars" pos="0.951662 -0.178045 6.315039" rpy="0.0 0.0 0.0" /><!--TV table was -0.180045-->
+					 
+				</dispatch>
+				<dispatch>
+					 <proxy type="GiftBox_Large_1" pos="0.542482 -2.719101 4.625977" rpy="0.0 0.0 0.0" /><!--on table next to door downstairs-->					 
+					 <proxy type="GiftBox_Large_2" pos="0.487305 -2.719101 6.572021" rpy="0.0 0.0 0.0" /><!--on table next to window-->
+					 <proxy type="GiftBox_Large_3" pos="-1.768556 -2.719101 5.129639" rpy="0.0 0.0 0.0" /><!--on table front of fire-->
+					 
+					 <proxy type="BearPelt" pos="-4.121994 -0.327240 2.258274" rpy="0.0 65.0 0.0" /><!--bed upstairs right-->
+					 <proxy type="BearPelt" pos="-4.121994 -0.327240 1.755654" rpy="0.0 245.0 0.0" /><!--bed upstairs left-->
+					 <proxy type="BearPelt" pos="-4.121994 -0.327240 2.258274" rpy="0.0 -65.0 0.0" /><!--bed upstairs right-->
+					 <proxy type="BearPelt" pos="-4.121994 -0.327240 1.755654" rpy="0.0 -245.0 0.0" /><!--bed upstairs left-->
+					 
+					 <proxy type="CrudeMachete" pos="4.154785 -2.792236 -3.049073" rpy="0.0 0.0 -90.0" /><!--on bag entrance in shed -->
+					 
+					 <proxy type="SeaChest" pos="0.807844 -3.468712 1.530884" rpy="0.0 0.0 0.0" /><!--understairs-->
+				</dispatch>
+		</group>
+		<group name="Land_Village_Pub_SideRoom" lootmax="100"><!--adds metal plates on windows and supplies in side room of Land_Village_Pub-->
+				<usage name="Build" />
+				<dispatch>
+					 <proxy type="MetalPlate" pos="0.614113 -1.78799 7.790524" rpy="0.0 0.0 90.0" /><!--right of fireplace downstairs-->
+					 
+					 <proxy type="MetalPlate" pos="-5.28113 -1.78636 6.502344" rpy="90.0 0.0 0.0" /><!--right front-->
+					 <proxy type="MetalPlate" pos="-5.34135 -1.79636 4.437424" rpy="90.0 0.0 0.0" /><!--left front-->
+					 
+					 <proxy type="MetalPlate" pos="-3.913764 -1.78636 -3.617044" rpy="0.0 0.0 90.0" /><!--right bar side-->
+					 <proxy type="MetalPlate" pos="-2.973144 -1.78636 -3.617044" rpy="0.0 0.0 90.0" /><!--left bar side-->
+					 
+					 <proxy type="MetalPlate" pos="-0.0951539 0.554531 7.943032" rpy="0.0 0.0 90.0" /><!--upstairs right fireplace-->
+					 <proxy type="MetalPlate" pos="-3.612114 0.558531 7.895652" rpy="0.0 0.0 90.0" /><!--upstairs left fireplace-->
+					 
+					 <proxy type="MetalPlate" pos="-5.306674 0.554531 6.850032" rpy="90.0 0.0 0.0" /><!--upstairs front right-->
+					 <proxy type="MetalPlate" pos="-5.284424 0.558531 5.285642" rpy="90.0 0.0 0.0" /><!--upstairs front left by bookshelf-->
+					 
+					 <proxy type="MetalPlate" pos="-5.306674 0.554531 3.522662" rpy="90.0 0.0 0.0" /><!--upstairs bedroom right-->
+					 <proxy type="MetalPlate" pos="-5.284424 0.558531 1.986552" rpy="90.0 0.0 0.0" /><!--upstairs bedroom left -->
+				</dispatch>
+				<dispatch>
+					 <proxy type="WoodenPlank" pos="0.565918 -2.581047 0.248066" rpy="0.0 90.0 0.0" /><!--shed table logs--->
+					 <proxy type="WoodenPlank" pos="0.565918 -2.525047 0.248066" rpy="0.0 90.0 0.0" /><!--shed table plank top-->
+					 <proxy type="WoodenPlank" pos="0.565918 -2.481047 0.248066" rpy="0.0 90.0 0.0" /><!--shed table plank top-->
+					 <proxy type="WoodenPlank" pos="0.565918 -2.581047 0.488066" rpy="0.0 90.0 0.0" /><!--shed table plank--->
+					 <proxy type="WoodenPlank" pos="0.565918 -2.531047 0.488066" rpy="0.0 90.0 0.0" /><!--shed table plank--->
+					 <proxy type="WoodenPlank" pos="0.565918 -2.481047 0.488066" rpy="0.0 90.0 0.0" /><!--shed table plank top--->
+					 <proxy type="WoodenLog" pos="0.937109 -2.581047 -1.095459" rpy="0.0 90.0 0.0" /><!--shed table logs-->
+					 <proxy type="WoodenLog" pos="0.737109 -2.581047 -1.095459" rpy="0.0 90.0 0.0" /><!--shed table logs-->
+					 <proxy type="WoodenLog" pos="0.537109 -2.581047 -1.095459" rpy="0.0 90.0 0.0" /><!--shed table logs-->
+					 <proxy type="WoodenLog" pos="0.337109 -2.581047 -1.095459" rpy="0.0 90.0 0.0" /><!--shed table logs-->
+					 
+					 <proxy type="FirefighterAxe_Black" pos="0.719461 -1.959894 -3.476894" rpy="50.0 0.0 0.0" /><!--wall right of door--->
+					 <proxy type="Sword" pos="1.219461 -1.976894 -3.476894" rpy="-50.0 0.0 0.0" /><!--wall right of door-->
+					 
+					 <proxy type="Hammer" pos="3.032227 -2.520799 0.438476" rpy="0.0 90.0 90.0" /><!--top blue shelf --->
+					 <proxy type="GiftBox_Medium_3" pos="3.032227 -2.901520 0.438476" rpy="0.0 0.0 0.0" /><!--top blue shelf shed--->
+					 <proxy type="Rope" pos="2.555176 -2.891520 0.466064" rpy="0.0 90.0 90.0" /><!--2nd shelf blue shed-->
+					 <proxy type="NailBox" pos="2.555176 -2.560799 0.466064" rpy="0.0 0.0 0.0" /><!--top shelf blue shed-->
+					 <proxy type="NailBox" pos="2.425176 -2.560799 0.466064" rpy="0.0 0.0 0.0" /><!--top shelf blue shed-->
+					 <proxy type="NailBox" pos="2.555176 -2.560799 0.566064" rpy="0.0 0.0 0.0" /><!---->
+					 <proxy type="NailBox" pos="2.425176 -2.560799 0.566064" rpy="0.0 0.0 0.0" /><!---->
+					 <proxy type="GiftBox_Medium_2" pos="4.266602 -2.892954 -0.614991" rpy="0.0 0.0 0.0" /><!--blue 2nd shelf corner bag was -2.902954 0.0 0.0 90.0-->
+					 <proxy type="FieldShovel" pos="4.266602 -2.500057 -0.614991" rpy="0.0 90.0 90.0" /><!--blue top shelf near corner bag-->
+					 <proxy type="Hatchet" pos="4.237793 -2.563057 -1.728760" rpy="0.0 90.0 90.0" /><!--top side blue near door-->
+					 <proxy type="BarbedWire" pos="4.237793 -2.902954 -1.728760" rpy="0.0 0.0 0.0" /><!--top side blue near door-->
+					 
+				</dispatch>
+		</group>
+		<group name="Land_ChapelHUNT" lootmax="100">
+				<usage name="Sorted" />
+				<dispatch>
+                        <proxy type="Guts" pos="-0.206152 -3.194893 3.392333" rpy="0.0 40.0 0.0" /><!--left altar-->						
+                        <proxy type="BookTheCallOfCthulhu" pos="0.159444 -3.154672 3.392333" rpy="90.0 -75.0 0.0" /><!--middle altar-->
+                        <proxy type="FangeKnife" pos="0.159444 -3.000000 3.392333" rpy="90.0 15.0 180.0" /><!--middle altar in book-->						
+                        <proxy type="HumanSteakMeat" pos="0.559444 -3.194672 3.392333" rpy="0.0 -75.0 0.0" /><!--right altar-->
+						
+						<proxy type="PumpkinHelmet" pos="0.1 0.8 2.2" rpy="100.0 0.0 0.0" /><!--one -0.139923 0.8 2.282914-->
+						
+                        <proxy type="Mosin9130_Green" pos="-1.053773 -2.152921 3.339516" rpy="0.0 45.0 0.0" /><!--Left wall -->
+                        <proxy type="B95_Green" pos="1.270196 -2.152921 3.391374" rpy="0.0 -45.0 0.0" /><!--right wall-->
+                        <proxy type="AKS74U_Green" pos="1.283969 -2.140802 1.066679" rpy="0.0 45.0 0.0" /><!--back R wall-->
+                        <proxy type="FurImprovisedBag" pos="1.283969 -2.840802 1.066679" rpy="0.0 45.0 0.0" /><!--back R wall-->
+                        <proxy type="M16A2" pos="-1.109969 -2.140802 1.141724" rpy="0.0 135.0 0.0" /><!--back L wall-->
+                        <proxy type="LeatherSack_Natural" pos="-1.109969 -2.840802 1.191724" rpy="0.0 135.0 0.0" /><!--back L wall-->
+				</dispatch>
+		</group>

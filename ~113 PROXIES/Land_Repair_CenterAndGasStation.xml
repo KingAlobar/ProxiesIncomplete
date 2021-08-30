@@ -1,0 +1,45 @@
+		
+		<group name="Land_Repair_Center" lootmax="44"><!--28 chernarus-->
+				<usage name="Sorted" />
+				<dispatch>
+                        <proxy type="Canteen" pos="4.750570 -0.596957 1.332560" rpy="0.0 0.0 0.0" /><!--sink-->
+                        <proxy type="PurificationTablets" pos="4.725470 -0.596957 1.009360" rpy="0.0 0.0 0.0" /><!--sink-->
+                        <proxy type="BookTheHiddenChildren" pos="4.688038 -0.299516 0.234023" rpy="90.0 -75.0 0.0" /><!--shelf 2nd from top left-->
+                        <proxy type="BatteryCharger" pos="4.672754 -0.339516 -0.871063" rpy="0.0 90.0 0.0" /><!--shelf 2nd from top middle-->
+                        <proxy type="TruckBattery" pos="4.693294 -0.339516 -1.528784" rpy="0.0 -45.0 0.0" /><!--middle right-->
+                        <proxy type="GiftBox_Medium_2" pos="4.672754 -0.679515 -0.871063" rpy="0.0 40.0 0.0" /><!--shelf 2nd from top middle too high was -0.649515-->
+						<proxy type="TireRepairKit" pos="4.659878 -0.649515 -0.204213" rpy="0.0 -20.0 0.0" /><!--shelf middle-->
+                        <proxy type="CarBattery" pos="4.693294 -0.689515 -1.528784" rpy="0.0 10.0 0.0" /><!--middle right too high was -0.669515-->
+                        <proxy type="SparkPlug" pos="4.737910 -0.689517 -1.857540" rpy="90.0 90.0 45.0" /><!--middle right right-->
+                        <proxy type="EpoxyPutty" pos="4.692421 -1.099515 0.198802" rpy="90.0 10.0 0.0" /><!--2nd from bottom left-->
+                        <proxy type="HeadlightH7_Box" pos="4.686880 -1.099517 -0.640811" rpy="0.0 0.0 0.0" /><!--2nd from bottom middle-->
+                        <proxy type="Rope" pos="4.693294 -1.059515 -1.528784" rpy="90.0 30.0 0.0" /><!--2nd from bottom right-->
+                        <proxy type="SparkPlug" pos="4.686880 -0.683517 -0.640811" rpy="90.0 90.0 45.0" /><!--middle middle-->
+                        <proxy type="Flashlight" pos="4.687165 -1.300515 -0.192857" rpy="0.0 0.0 -90.0" /><!--bottom left shelf -->
+                        <proxy type="HeadlightH7_Box" pos="4.705906 -1.454515 -1.081571" rpy="0.0 0.0 0.0" /><!--bottom middle-->
+						
+                        <proxy type="ElectronicRepairKit" pos="1.906200 -1.614887 1.239700" rpy="90.0 -20.0 0.0" /><!--far right workbench-->
+                        <proxy type="CarBattery" pos="0.978204 -1.625887 1.458140" rpy="0.0 10.0 0.0" /><!--right workbench-->
+                        <proxy type="CarBattery" pos="0.978204 -1.624887 1.458140" rpy="0.0 10.0 0.0" /><!--right workbench-->
+                        <proxy type="CarRadiator" pos="-1.311790 -1.624887 1.431930" rpy="0.0 40.0 0.0" /><!--far left workbench-->
+                        <proxy type="CanisterGasoline" pos="0.196543 -1.500887 1.398320" rpy="0.0 30.0 0.0" /><!--middle workbench-->
+						
+                        <proxy type="DryBag_Orange" pos="1.223290 -1.374518 -2.886319" rpy="0.0 90.0 0.0" /><!--wall -->
+                        <proxy type="PipeWrench" pos="-1.162340 -0.731367 -2.886320" rpy="50.0 0.0 0.0" /><!--wall right-->
+                        <proxy type="PipeWrench" pos="-1.162340 -0.731367 -2.886320" rpy="-50.0 0.0 0.0" /><!--wall right-->
+						
+						<proxy type="PowerGenerator" pos="2.021226 -2.371064 0.205408" rpy="0.0 0.0 0.0" /><!--floor-->
+                        <proxy type="Spotlight" pos="2.146691 -2.371065 -1.130810" rpy="0.0 0.0 0.0" /><!--floor-->
+				</dispatch>
+		</group>
+		<group name="Land_FuelStation_Build" lootmax="14"><!--19 chernarus-->
+				<usage name="Sorted" />
+				<dispatch>
+                        <proxy type="BookTheComingRace" pos="2.517046 -0.762553 1.062791" rpy="90.0 -25.0 0.0" /><!--dumpster-->
+                        <proxy type="GiftBox_Small_2" pos="0.262119 -1.097858 1.033071" rpy="0.0 90.0 0.0" /><!--shelf-->
+                        <proxy type="CarBattery" pos="0.077252 -1.098042 1.788205" rpy="0.0 10.0 0.0" /><!--shelf-->
+                        <proxy type="CarRadiator" pos="0.007802 -0.602200 0.855435" rpy="0.0 40.0 0.0" /><!--counter-->
+                        <proxy type="CanisterGasoline" pos="0.074696 -0.402562 1.882336" rpy="0.0 30.0 0.0" /><!--counter-->
+                        <proxy type="DryBag_Orange" pos="1.632166 0.097057 0.686385" rpy="0.0 0.0 0.0" /><!--wall-->
+				</dispatch>
+		</group>

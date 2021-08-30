@@ -1,0 +1,24 @@
+<group name="Land_Power_Transformer_Build" lootmax="4">
+	<usage name="Military" />
+	<container name="lootFloor" lootmax="4">
+		<point pos="1.272371 -3.359869 -0.454370" range="0.5" height="1.5" />
+		<point pos="1.236668 -3.359708 0.054505" range="0.5" height="1.5" />
+		<point pos="1.578850 -2.499749 -0.033655" range="0.5" height="1.5" />
+		<point pos="0.117364 -2.383078 1.143860" range="0.5" height="1.5" />
+		<point pos="0.115869 -3.146202 1.143860" range="0.5" height="1.5" />
+		<point pos="0.347642 -2.684174 -0.625904" range="0.5" height="1.5" />
+		<point pos="-1.122370 0.666239 -0.035486" range="0.5" height="1.5" />
+	</container>
+</group>
+	
+	
+		<dispatch>
+			<proxy type="M4A1" pos="1.260840 0.780000 -2.694771" rpy="0.0 90.0 0.0" /><!---->
+			<proxy type="DryBag_Green" pos="1.299212 0.030000 -2.694771" rpy="0.0 90.0 0.0" /><!---->
+			<proxy type="FAL" pos="-0.970712 0.780000 -2.694771" rpy="0.0 90.0 0.0" /><!---->
+			<proxy type="DryBag_Black" pos="-0.956394 0.030000 -2.694771" rpy="0.0 90.0 0.0" /><!---->
+			<proxy type="AKM" pos="-2.569824 0.780000 -2.694771" rpy="0.0 90.0 0.0" /><!---->
+			<proxy type="DryBag_Orange" pos="-2.564874 0.030000 -2.694771" rpy="0.0 90.0 0.0" /><!---->
+			<proxy type="Rice" pos="-2.569824 0.780000 -2.694771" rpy="0.0 90.0 0.0" /><!---->
+			<proxy type="Soda" pos="-2.564874 0.030000 -2.694771" rpy="0.0 90.0 0.0" /><!---->
+		</dispatch>

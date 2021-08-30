@@ -1,0 +1,19 @@
+
+		<group name="Land_Container_1MoGUNS" lootmax="24">
+		<usage name="SortedMilitary" />
+		<dispatch>
+			<proxy type="FAL" pos="-1.403630 0.665101 -0.979631" rpy="0.0 90.0 0.0" /><!--far left-->
+			<proxy type="DryBag_Black" pos="-1.428495 -0.251187 -0.979631" rpy="0.0 90.0 0.0" /><!---->
+			<proxy type="ASVAL" pos="0.177635 0.665101 -0.979631" rpy="0.0 90.0 0.0" /><!--2nd from left-->
+			<proxy type="DryBag_Blue" pos="0.211597 -0.251187 -0.979631" rpy="0.0 90.0 0.0" /><!--2nd from left-->
+			<proxy type="AK74" pos="1.618347 0.665101 -0.979631" rpy="0.0 90.0 0.0" /><!--2nd from right-->
+			<proxy type="DryBag_Yellow" pos="1.598869 -0.251187 -0.979631" rpy="0.0 90.0 0.0" /><!--2nd from right-->
+			
+			<proxy type="AKM" pos="-1.559053 0.665101 1.022009" rpy="0.0 90.0 0.0" /><!--right inside-->
+			<proxy type="DryBag_Orange" pos="-1.534539 -0.251187 1.022009" rpy="0.0 -90.0 0.0" /><!---->
+			<proxy type="M4A1" pos="0.214417 0.665101 1.022009" rpy="0.0 90.0 0.0" /><!--left inside-->
+			<proxy type="DryBag_Green" pos="0.255534 -0.251187 1.022009" rpy="0.0 -90.0 0.0" /><!--left inside-->
+			<proxy type="SVD" pos="1.738121 0.665101 1.022009" rpy="0.0 -90.0 0.0" /><!--front-->
+			<proxy type="DryBag_Red" pos="1.780782 -0.251187 1.022009" rpy="0.0 -90.0 0.0" /><!--front-->
+		</dispatch>
+		</group>
